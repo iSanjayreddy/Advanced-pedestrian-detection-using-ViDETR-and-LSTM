@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pedestrian Detection</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <style>
+    /* Additional Styles */
+    .container {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .sections {
+      flex-grow: 1;
+      grid-auto-rows: 1fr;
+    }
+
+    .section {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      height: 100%;
+    }
+
+    .section form {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .file-name {
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+      color: #8b949e;
+      word-break: break-all;
+    }
+
+    .upload-status {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 1rem;
+    }
+
+    .upload-status i {
+      color: var(--accent);
+    }
+  </style>
+</head>
+<body>
+  <div class="container fade-in">
+    <h1>Low Visibility pedestrian detection</h1>
+    <div class="sections">
+      <!-- Video Section -->
+      <div class="section">
+        <div>
+          <h2><i class="fas fa-video"></i> Video Processing</h2>
+          <form action="/" method="POST" enctype="multipart/form-data" onsubmit="return validateForm(this)">
+            <div class="upload-container">
+              <input type="file" name="file" accept="video/*" required 
+                     onchange="showFileName(this, 'video-file')">
+              <div class="custom-upload">
+                <i class="fas fa-upload"></i> Select Video
+              </div>
+              <div class="upload-status">
+                <span id="video-file" class="file-name"></span>
+              </div>
+            </div>
+            <button type="submit" name="process_video" class="btn btn-primary">
+              <i class="fas fa-play"></i> Process Video
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <!-- Image Section -->
+      <div class="section">
+        <div>
+          <h2><i class="fas fa-image"></i> Image Detection</h2>
+          <form action="/" method="POST" enctype="multipart/form-data" onsubmit="return validateForm(this)">
+            <div class="upload-container">
+              <input type="file" name="file" accept="image/*" required 
+                     onchange="showFileName(this, 'image-file')">
+              <div class="custom-upload">
+                <i class="fas fa-upload"></i> Select Image
+              </div>
+              <div class="upload-status">
+                <span id="image-file" class="file-name"></span>
+              </div>
+            </div>
+            <button type="submit" name="detect_image" class="btn btn-primary">
+              <i class="fas fa-search"></i> Detect Pedestrians
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <!-- Camera Section -->
+      <div class="section">
+        <div>
+          <h2><i class="fas fa-camera"></i> Live Detection</h2>
+          <form action="/" method="POST">
+            <div class="upload-status">
+              <i class="fas fa-info-circle"></i>
+              <span>No file required for live detection</span>
+            </div>
+            <button type="submit" name="use_camera" class="btn btn-primary">
+              <i class="fas fa-play-circle"></i> Start Live Detection
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function showFileName(input, targetId) {
+      const fileName = input.files[0]?.name || 'No file selected';
+      document.getElementById(targetId).textContent = fileName;
+    }
+
+    function validateForm(form) {
+      const fileInput = form.querySelector('input[type="file"]');
+      if (!fileInput?.files.length) {
+        alert('Please select a file first!');
+        return false;
+      }
+      return true;
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Live Detection</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+  <div class="container fade-in">
+    <h1>Live Pedestrian Detection <span class="pulse-dot"></span></h1>
+    
+    <div class="video-container">
+      <img src="{{ url_for('camera_feed') }}" width="800">
+    </div>
+
+    <div class="button-group">
+      <a href="/" class="btn btn-secondary">
+        <i class="fas fa-arrow-left"></i> Back to Home
+      </a>
+    </div>
+  </div>
+</body>
+</html>
