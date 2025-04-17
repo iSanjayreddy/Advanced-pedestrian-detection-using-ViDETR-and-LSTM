@@ -1,0 +1,1686 @@
+2025-04-05 07:29:23,593 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 07:29:23,866 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 07:29:24,112 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:29:24,366 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:29:24,394 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 07:29:24,638 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 07:29:24,639 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 07:29:24,681 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 07:29:24,868 - WARNING -  * Debugger is active!
+2025-04-05 07:29:24,871 - INFO -  * Debugger PIN: 208-231-373
+2025-04-05 07:29:34,337 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 07:29:34,609 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 07:29:34,926 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:29:35,193 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:29:35,220 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 07:29:35,542 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 07:29:35,544 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 07:29:35,582 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 07:29:35,744 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-05 07:29:35,745 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 07:29:35,746 - INFO -  * Restarting with stat
+2025-04-05 07:29:39,165 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 07:29:39,504 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 07:29:39,738 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:29:40,001 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:29:40,030 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 07:29:40,269 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 07:29:40,271 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 07:29:40,306 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 07:29:40,470 - WARNING -  * Debugger is active!
+2025-04-05 07:29:40,475 - INFO -  * Debugger PIN: 208-231-373
+2025-04-05 07:31:39,543 - INFO -  * Detected change in 'C:\\Users\\coper\\OneDrive\\Desktop\\pedestrian try\\app.py', reloading
+2025-04-05 07:31:40,065 - INFO -  * Restarting with stat
+2025-04-05 07:31:49,422 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 07:31:49,774 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 07:31:50,007 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:31:50,313 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:31:50,341 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 07:31:50,579 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 07:31:50,582 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 07:31:50,617 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 07:31:50,795 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081
+2025-04-05 07:31:50,795 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 07:31:50,796 - INFO -  * Restarting with stat
+2025-04-05 07:31:54,123 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 07:31:54,575 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 07:31:55,003 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:31:55,235 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:31:55,262 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 07:31:55,501 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 07:31:55,503 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 07:31:55,538 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 07:31:55,694 - WARNING -  * Debugger is active!
+2025-04-05 07:31:55,697 - INFO -  * Debugger PIN: 208-231-373
+2025-04-05 07:32:28,121 - INFO - 127.0.0.1 - - [05/Apr/2025 07:32:28] "GET / HTTP/1.1" 200 -
+2025-04-05 07:32:28,383 - INFO - 127.0.0.1 - - [05/Apr/2025 07:32:28] "GET /static/styles.css HTTP/1.1" 200 -
+2025-04-05 07:32:28,444 - INFO - 127.0.0.1 - - [05/Apr/2025 07:32:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-05 07:32:43,831 - DEBUG - Video file saved: uploads\768x576.avi
+2025-04-05 07:32:43,832 - INFO - 127.0.0.1 - - [05/Apr/2025 07:32:43] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 07:32:44,142 - INFO - 127.0.0.1 - - [05/Apr/2025 07:32:44] "GET /result HTTP/1.1" 200 -
+2025-04-05 07:32:44,398 - INFO - 127.0.0.1 - - [05/Apr/2025 07:32:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:32:46,151 - DEBUG - Frame 0: 3 detections logged.
+2025-04-05 07:32:46,155 - DEBUG - Processed frame 0 in 1.680 seconds.
+2025-04-05 07:32:46,157 - INFO - 127.0.0.1 - - [05/Apr/2025 07:32:46] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 07:32:47,959 - DEBUG - Frame 1: 3 detections logged.
+2025-04-05 07:32:47,963 - DEBUG - Processed frame 1 in 1.803 seconds.
+2025-04-05 07:32:49,716 - DEBUG - Frame 2: 3 detections logged.
+2025-04-05 07:32:49,719 - DEBUG - Processed frame 2 in 1.754 seconds.
+2025-04-05 07:32:51,322 - DEBUG - Frame 3: 3 detections logged.
+2025-04-05 07:32:51,325 - DEBUG - Processed frame 3 in 1.602 seconds.
+2025-04-05 07:32:53,298 - DEBUG - Frame 4: 3 detections logged.
+2025-04-05 07:32:53,302 - DEBUG - Processed frame 4 in 1.973 seconds.
+2025-04-05 07:32:54,910 - DEBUG - Frame 5: 3 detections logged.
+2025-04-05 07:32:54,912 - DEBUG - Processed frame 5 in 1.607 seconds.
+2025-04-05 07:32:56,504 - DEBUG - Frame 6: 3 detections logged.
+2025-04-05 07:32:56,507 - DEBUG - Processed frame 6 in 1.589 seconds.
+2025-04-05 07:32:58,074 - DEBUG - Frame 7: 3 detections logged.
+2025-04-05 07:32:58,077 - DEBUG - Processed frame 7 in 1.567 seconds.
+2025-04-05 07:32:59,870 - DEBUG - Frame 8: 3 detections logged.
+2025-04-05 07:32:59,873 - DEBUG - Processed frame 8 in 1.794 seconds.
+2025-04-05 07:33:01,530 - DEBUG - Frame 9: 3 detections logged.
+2025-04-05 07:33:01,533 - DEBUG - Processed frame 9 in 1.656 seconds.
+2025-04-05 07:33:03,147 - DEBUG - Frame 10: 4 detections logged.
+2025-04-05 07:33:03,150 - DEBUG - Processed frame 10 in 1.614 seconds.
+2025-04-05 07:33:04,750 - DEBUG - Frame 11: 4 detections logged.
+2025-04-05 07:33:04,753 - DEBUG - Processed frame 11 in 1.599 seconds.
+2025-04-05 07:33:06,483 - DEBUG - Frame 12: 4 detections logged.
+2025-04-05 07:33:06,486 - DEBUG - Processed frame 12 in 1.730 seconds.
+2025-04-05 07:33:08,132 - DEBUG - Frame 13: 4 detections logged.
+2025-04-05 07:33:08,136 - DEBUG - Processed frame 13 in 1.645 seconds.
+2025-04-05 07:33:09,677 - DEBUG - Frame 14: 4 detections logged.
+2025-04-05 07:33:09,681 - DEBUG - Processed frame 14 in 1.541 seconds.
+2025-04-05 07:33:11,340 - DEBUG - Frame 15: 4 detections logged.
+2025-04-05 07:33:11,342 - DEBUG - Processed frame 15 in 1.658 seconds.
+2025-04-05 07:33:12,905 - DEBUG - Frame 16: 5 detections logged.
+2025-04-05 07:33:12,905 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:12,907 - DEBUG - Processed frame 16 in 1.562 seconds.
+2025-04-05 07:33:14,542 - DEBUG - Frame 17: 5 detections logged.
+2025-04-05 07:33:14,542 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:14,545 - DEBUG - Processed frame 17 in 1.634 seconds.
+2025-04-05 07:33:16,230 - DEBUG - Frame 18: 5 detections logged.
+2025-04-05 07:33:16,230 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:16,233 - DEBUG - Processed frame 18 in 1.684 seconds.
+2025-04-05 07:33:17,932 - DEBUG - Frame 19: 4 detections logged.
+2025-04-05 07:33:17,934 - DEBUG - Processed frame 19 in 1.698 seconds.
+2025-04-05 07:33:19,589 - DEBUG - Frame 20: 5 detections logged.
+2025-04-05 07:33:19,589 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:19,593 - DEBUG - Processed frame 20 in 1.655 seconds.
+2025-04-05 07:33:21,241 - DEBUG - Frame 21: 5 detections logged.
+2025-04-05 07:33:21,241 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:21,244 - DEBUG - Processed frame 21 in 1.648 seconds.
+2025-04-05 07:33:22,992 - DEBUG - Frame 22: 6 detections logged.
+2025-04-05 07:33:22,992 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:33:22,995 - DEBUG - Processed frame 22 in 1.748 seconds.
+2025-04-05 07:33:24,684 - DEBUG - Frame 23: 5 detections logged.
+2025-04-05 07:33:24,684 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:24,686 - DEBUG - Processed frame 23 in 1.687 seconds.
+2025-04-05 07:33:26,381 - DEBUG - Frame 24: 5 detections logged.
+2025-04-05 07:33:26,381 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:26,384 - DEBUG - Processed frame 24 in 1.695 seconds.
+2025-04-05 07:33:28,175 - DEBUG - Frame 25: 5 detections logged.
+2025-04-05 07:33:28,175 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:28,178 - DEBUG - Processed frame 25 in 1.790 seconds.
+2025-04-05 07:33:29,846 - DEBUG - Frame 26: 5 detections logged.
+2025-04-05 07:33:29,846 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:29,850 - DEBUG - Processed frame 26 in 1.669 seconds.
+2025-04-05 07:33:31,509 - DEBUG - Frame 27: 5 detections logged.
+2025-04-05 07:33:31,509 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:31,513 - DEBUG - Processed frame 27 in 1.661 seconds.
+2025-04-05 07:33:33,221 - DEBUG - Frame 28: 5 detections logged.
+2025-04-05 07:33:33,221 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:33,224 - DEBUG - Processed frame 28 in 1.706 seconds.
+2025-04-05 07:33:35,020 - DEBUG - Frame 29: 5 detections logged.
+2025-04-05 07:33:35,020 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:35,023 - DEBUG - Processed frame 29 in 1.797 seconds.
+2025-04-05 07:33:36,933 - DEBUG - Frame 30: 5 detections logged.
+2025-04-05 07:33:36,933 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:36,937 - DEBUG - Processed frame 30 in 1.911 seconds.
+2025-04-05 07:33:38,935 - DEBUG - Frame 31: 4 detections logged.
+2025-04-05 07:33:38,937 - DEBUG - Processed frame 31 in 1.998 seconds.
+2025-04-05 07:33:40,550 - DEBUG - Frame 32: 4 detections logged.
+2025-04-05 07:33:40,551 - DEBUG - Processed frame 32 in 1.610 seconds.
+2025-04-05 07:33:42,220 - DEBUG - Frame 33: 5 detections logged.
+2025-04-05 07:33:42,220 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:42,223 - DEBUG - Processed frame 33 in 1.669 seconds.
+2025-04-05 07:33:43,884 - DEBUG - Frame 34: 5 detections logged.
+2025-04-05 07:33:43,885 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:43,888 - DEBUG - Processed frame 34 in 1.662 seconds.
+2025-04-05 07:33:45,601 - DEBUG - Frame 35: 5 detections logged.
+2025-04-05 07:33:45,601 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:45,604 - DEBUG - Processed frame 35 in 1.713 seconds.
+2025-04-05 07:33:47,637 - DEBUG - Frame 36: 5 detections logged.
+2025-04-05 07:33:47,637 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:47,641 - DEBUG - Processed frame 36 in 2.033 seconds.
+2025-04-05 07:33:49,540 - DEBUG - Frame 37: 6 detections logged.
+2025-04-05 07:33:49,540 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:33:49,542 - DEBUG - Processed frame 37 in 1.898 seconds.
+2025-04-05 07:33:51,269 - DEBUG - Frame 38: 5 detections logged.
+2025-04-05 07:33:51,269 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:33:51,271 - DEBUG - Processed frame 38 in 1.726 seconds.
+2025-04-05 07:33:52,942 - DEBUG - Frame 39: 7 detections logged.
+2025-04-05 07:33:52,943 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:33:52,945 - DEBUG - Processed frame 39 in 1.671 seconds.
+2025-04-05 07:33:55,071 - DEBUG - Frame 40: 7 detections logged.
+2025-04-05 07:33:55,071 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:33:55,076 - DEBUG - Processed frame 40 in 2.127 seconds.
+2025-04-05 07:33:56,842 - DEBUG - Frame 41: 7 detections logged.
+2025-04-05 07:33:56,842 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:33:56,845 - DEBUG - Processed frame 41 in 1.766 seconds.
+2025-04-05 07:33:58,593 - DEBUG - Frame 42: 6 detections logged.
+2025-04-05 07:33:58,593 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:33:58,596 - DEBUG - Processed frame 42 in 1.748 seconds.
+2025-04-05 07:34:00,253 - DEBUG - Frame 43: 6 detections logged.
+2025-04-05 07:34:00,253 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:34:00,255 - DEBUG - Processed frame 43 in 1.655 seconds.
+2025-04-05 07:34:01,877 - DEBUG - Frame 44: 7 detections logged.
+2025-04-05 07:34:01,877 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:01,879 - DEBUG - Processed frame 44 in 1.621 seconds.
+2025-04-05 07:34:03,509 - DEBUG - Frame 45: 7 detections logged.
+2025-04-05 07:34:03,509 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:03,513 - DEBUG - Processed frame 45 in 1.631 seconds.
+2025-04-05 07:34:05,127 - DEBUG - Frame 46: 7 detections logged.
+2025-04-05 07:34:05,128 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:05,131 - DEBUG - Processed frame 46 in 1.613 seconds.
+2025-04-05 07:34:06,751 - DEBUG - Frame 47: 7 detections logged.
+2025-04-05 07:34:06,751 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:06,753 - DEBUG - Processed frame 47 in 1.620 seconds.
+2025-04-05 07:34:08,393 - DEBUG - Frame 48: 7 detections logged.
+2025-04-05 07:34:08,393 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:08,398 - DEBUG - Processed frame 48 in 1.640 seconds.
+2025-04-05 07:34:10,021 - DEBUG - Frame 49: 7 detections logged.
+2025-04-05 07:34:10,021 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:10,024 - DEBUG - Processed frame 49 in 1.623 seconds.
+2025-04-05 07:34:11,637 - DEBUG - Frame 50: 6 detections logged.
+2025-04-05 07:34:11,637 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:34:11,641 - DEBUG - Processed frame 50 in 1.613 seconds.
+2025-04-05 07:34:13,270 - DEBUG - Frame 51: 7 detections logged.
+2025-04-05 07:34:13,270 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:13,272 - DEBUG - Processed frame 51 in 1.628 seconds.
+2025-04-05 07:34:14,885 - DEBUG - Frame 52: 7 detections logged.
+2025-04-05 07:34:14,886 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:14,888 - DEBUG - Processed frame 52 in 1.613 seconds.
+2025-04-05 07:34:16,507 - DEBUG - Frame 53: 6 detections logged.
+2025-04-05 07:34:16,507 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:34:16,510 - DEBUG - Processed frame 53 in 1.618 seconds.
+2025-04-05 07:34:18,133 - DEBUG - Frame 54: 7 detections logged.
+2025-04-05 07:34:18,133 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:18,136 - DEBUG - Processed frame 54 in 1.622 seconds.
+2025-04-05 07:34:19,758 - DEBUG - Frame 55: 7 detections logged.
+2025-04-05 07:34:19,758 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:19,760 - DEBUG - Processed frame 55 in 1.622 seconds.
+2025-04-05 07:34:21,384 - DEBUG - Frame 56: 5 detections logged.
+2025-04-05 07:34:21,384 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:34:21,387 - DEBUG - Processed frame 56 in 1.623 seconds.
+2025-04-05 07:34:22,999 - DEBUG - Frame 57: 7 detections logged.
+2025-04-05 07:34:22,999 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:23,002 - DEBUG - Processed frame 57 in 1.612 seconds.
+2025-04-05 07:34:24,620 - DEBUG - Frame 58: 5 detections logged.
+2025-04-05 07:34:24,620 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:34:24,623 - DEBUG - Processed frame 58 in 1.619 seconds.
+2025-04-05 07:34:26,262 - DEBUG - Frame 59: 6 detections logged.
+2025-04-05 07:34:26,262 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:34:26,265 - DEBUG - Processed frame 59 in 1.639 seconds.
+2025-04-05 07:34:27,898 - DEBUG - Frame 60: 7 detections logged.
+2025-04-05 07:34:27,898 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:27,902 - DEBUG - Processed frame 60 in 1.634 seconds.
+2025-04-05 07:34:29,563 - DEBUG - Frame 61: 6 detections logged.
+2025-04-05 07:34:29,563 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:34:29,566 - DEBUG - Processed frame 61 in 1.660 seconds.
+2025-04-05 07:34:31,222 - DEBUG - Frame 62: 7 detections logged.
+2025-04-05 07:34:31,222 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:31,225 - DEBUG - Processed frame 62 in 1.657 seconds.
+2025-04-05 07:34:32,963 - DEBUG - Frame 63: 6 detections logged.
+2025-04-05 07:34:32,963 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:34:32,966 - DEBUG - Processed frame 63 in 1.737 seconds.
+2025-04-05 07:34:34,669 - DEBUG - Frame 64: 7 detections logged.
+2025-04-05 07:34:34,669 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:34,672 - DEBUG - Processed frame 64 in 1.703 seconds.
+2025-04-05 07:34:36,668 - DEBUG - Frame 65: 7 detections logged.
+2025-04-05 07:34:36,668 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:36,671 - DEBUG - Processed frame 65 in 1.995 seconds.
+2025-04-05 07:34:38,518 - DEBUG - Frame 66: 8 detections logged.
+2025-04-05 07:34:38,518 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:34:38,521 - DEBUG - Processed frame 66 in 1.847 seconds.
+2025-04-05 07:34:40,199 - DEBUG - Frame 67: 7 detections logged.
+2025-04-05 07:34:40,199 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:40,202 - DEBUG - Processed frame 67 in 1.678 seconds.
+2025-04-05 07:34:41,822 - DEBUG - Frame 68: 7 detections logged.
+2025-04-05 07:34:41,822 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:41,826 - DEBUG - Processed frame 68 in 1.620 seconds.
+2025-04-05 07:34:43,577 - DEBUG - Frame 69: 7 detections logged.
+2025-04-05 07:34:43,578 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:43,581 - DEBUG - Processed frame 69 in 1.751 seconds.
+2025-04-05 07:34:45,207 - DEBUG - Frame 70: 7 detections logged.
+2025-04-05 07:34:45,207 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:45,210 - DEBUG - Processed frame 70 in 1.626 seconds.
+2025-04-05 07:34:46,828 - DEBUG - Frame 71: 7 detections logged.
+2025-04-05 07:34:46,828 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:46,831 - DEBUG - Processed frame 71 in 1.618 seconds.
+2025-04-05 07:34:48,449 - DEBUG - Frame 72: 7 detections logged.
+2025-04-05 07:34:48,449 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:48,453 - DEBUG - Processed frame 72 in 1.618 seconds.
+2025-04-05 07:34:50,126 - DEBUG - Frame 73: 6 detections logged.
+2025-04-05 07:34:50,126 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:34:50,130 - DEBUG - Processed frame 73 in 1.674 seconds.
+2025-04-05 07:34:51,778 - DEBUG - Frame 74: 7 detections logged.
+2025-04-05 07:34:51,778 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:34:51,781 - DEBUG - Processed frame 74 in 1.648 seconds.
+2025-04-05 07:34:53,435 - DEBUG - Frame 75: 8 detections logged.
+2025-04-05 07:34:53,435 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:34:53,439 - DEBUG - Processed frame 75 in 1.655 seconds.
+2025-04-05 07:34:55,111 - DEBUG - Frame 76: 8 detections logged.
+2025-04-05 07:34:55,111 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:34:55,115 - DEBUG - Processed frame 76 in 1.673 seconds.
+2025-04-05 07:34:56,828 - DEBUG - Frame 77: 9 detections logged.
+2025-04-05 07:34:56,828 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:34:56,831 - DEBUG - Processed frame 77 in 1.713 seconds.
+2025-04-05 07:34:58,519 - DEBUG - Frame 78: 8 detections logged.
+2025-04-05 07:34:58,519 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:34:58,522 - DEBUG - Processed frame 78 in 1.687 seconds.
+2025-04-05 07:35:00,175 - DEBUG - Frame 79: 8 detections logged.
+2025-04-05 07:35:00,175 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:00,179 - DEBUG - Processed frame 79 in 1.654 seconds.
+2025-04-05 07:35:01,853 - DEBUG - Frame 80: 8 detections logged.
+2025-04-05 07:35:01,853 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:01,863 - DEBUG - Processed frame 80 in 1.680 seconds.
+2025-04-05 07:35:03,528 - DEBUG - Frame 81: 7 detections logged.
+2025-04-05 07:35:03,528 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:35:03,528 - DEBUG - Processed frame 81 in 1.661 seconds.
+2025-04-05 07:35:05,244 - DEBUG - Frame 82: 8 detections logged.
+2025-04-05 07:35:05,244 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:05,245 - DEBUG - Processed frame 82 in 1.718 seconds.
+2025-04-05 07:35:07,006 - DEBUG - Frame 83: 8 detections logged.
+2025-04-05 07:35:07,006 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:07,006 - DEBUG - Processed frame 83 in 1.758 seconds.
+2025-04-05 07:35:08,821 - DEBUG - Frame 84: 8 detections logged.
+2025-04-05 07:35:08,822 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:08,825 - DEBUG - Processed frame 84 in 1.809 seconds.
+2025-04-05 07:35:10,522 - DEBUG - Frame 85: 8 detections logged.
+2025-04-05 07:35:10,524 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:10,526 - DEBUG - Processed frame 85 in 1.697 seconds.
+2025-04-05 07:35:12,230 - DEBUG - Frame 86: 8 detections logged.
+2025-04-05 07:35:12,231 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:12,233 - DEBUG - Processed frame 86 in 1.703 seconds.
+2025-04-05 07:35:13,981 - DEBUG - Frame 87: 8 detections logged.
+2025-04-05 07:35:13,982 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:13,985 - DEBUG - Processed frame 87 in 1.749 seconds.
+2025-04-05 07:35:15,774 - DEBUG - Frame 88: 8 detections logged.
+2025-04-05 07:35:15,774 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:15,777 - DEBUG - Processed frame 88 in 1.789 seconds.
+2025-04-05 07:35:17,504 - DEBUG - Frame 89: 8 detections logged.
+2025-04-05 07:35:17,504 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:17,506 - DEBUG - Processed frame 89 in 1.725 seconds.
+2025-04-05 07:35:19,182 - DEBUG - Frame 90: 8 detections logged.
+2025-04-05 07:35:19,182 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:19,185 - DEBUG - Processed frame 90 in 1.675 seconds.
+2025-04-05 07:35:20,861 - DEBUG - Frame 91: 8 detections logged.
+2025-04-05 07:35:20,861 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:20,864 - DEBUG - Processed frame 91 in 1.675 seconds.
+2025-04-05 07:35:22,560 - DEBUG - Frame 92: 7 detections logged.
+2025-04-05 07:35:22,560 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:35:22,563 - DEBUG - Processed frame 92 in 1.695 seconds.
+2025-04-05 07:35:24,254 - DEBUG - Frame 93: 8 detections logged.
+2025-04-05 07:35:24,254 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:24,257 - DEBUG - Processed frame 93 in 1.691 seconds.
+2025-04-05 07:35:26,022 - DEBUG - Frame 94: 8 detections logged.
+2025-04-05 07:35:26,022 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:26,024 - DEBUG - Processed frame 94 in 1.763 seconds.
+2025-04-05 07:35:28,012 - DEBUG - Frame 95: 7 detections logged.
+2025-04-05 07:35:28,012 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:35:28,016 - DEBUG - Processed frame 95 in 1.988 seconds.
+2025-04-05 07:35:29,869 - DEBUG - Frame 96: 6 detections logged.
+2025-04-05 07:35:29,869 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:35:29,872 - DEBUG - Processed frame 96 in 1.853 seconds.
+2025-04-05 07:35:31,715 - DEBUG - Frame 97: 7 detections logged.
+2025-04-05 07:35:31,715 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:35:31,718 - DEBUG - Processed frame 97 in 1.841 seconds.
+2025-04-05 07:35:33,444 - DEBUG - Frame 98: 6 detections logged.
+2025-04-05 07:35:33,444 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:35:33,447 - DEBUG - Processed frame 98 in 1.725 seconds.
+2025-04-05 07:35:35,272 - DEBUG - Frame 99: 7 detections logged.
+2025-04-05 07:35:35,272 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:35:35,275 - DEBUG - Processed frame 99 in 1.825 seconds.
+2025-04-05 07:35:37,119 - DEBUG - Frame 100: 8 detections logged.
+2025-04-05 07:35:37,119 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:37,122 - DEBUG - Processed frame 100 in 1.843 seconds.
+2025-04-05 07:35:38,842 - DEBUG - Frame 101: 7 detections logged.
+2025-04-05 07:35:38,843 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:35:38,846 - DEBUG - Processed frame 101 in 1.720 seconds.
+2025-04-05 07:35:40,655 - DEBUG - Frame 102: 8 detections logged.
+2025-04-05 07:35:40,655 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:40,659 - DEBUG - Processed frame 102 in 1.809 seconds.
+2025-04-05 07:35:42,370 - DEBUG - Frame 103: 7 detections logged.
+2025-04-05 07:35:42,370 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:35:42,370 - DEBUG - Processed frame 103 in 1.707 seconds.
+2025-04-05 07:35:44,051 - DEBUG - Frame 104: 6 detections logged.
+2025-04-05 07:35:44,051 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:35:44,067 - DEBUG - Processed frame 104 in 1.697 seconds.
+2025-04-05 07:35:45,784 - DEBUG - Frame 105: 8 detections logged.
+2025-04-05 07:35:45,784 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:45,788 - DEBUG - Processed frame 105 in 1.721 seconds.
+2025-04-05 07:35:47,537 - DEBUG - Frame 106: 8 detections logged.
+2025-04-05 07:35:47,537 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:35:47,544 - DEBUG - Processed frame 106 in 1.754 seconds.
+2025-04-05 07:35:49,199 - DEBUG - Frame 107: 6 detections logged.
+2025-04-05 07:35:49,199 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:35:49,214 - DEBUG - Processed frame 107 in 1.667 seconds.
+2025-04-05 07:35:50,866 - DEBUG - Frame 108: 6 detections logged.
+2025-04-05 07:35:50,867 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:35:50,870 - DEBUG - Processed frame 108 in 1.657 seconds.
+2025-04-05 07:35:52,646 - DEBUG - Frame 109: 6 detections logged.
+2025-04-05 07:35:52,646 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:35:52,650 - DEBUG - Processed frame 109 in 1.772 seconds.
+2025-04-05 07:35:54,406 - DEBUG - Frame 110: 6 detections logged.
+2025-04-05 07:35:54,407 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:35:54,410 - DEBUG - Processed frame 110 in 1.756 seconds.
+2025-04-05 07:35:56,092 - DEBUG - Frame 111: 6 detections logged.
+2025-04-05 07:35:56,092 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:35:56,095 - DEBUG - Processed frame 111 in 1.680 seconds.
+2025-04-05 07:35:57,747 - DEBUG - Frame 112: 7 detections logged.
+2025-04-05 07:35:57,747 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:35:57,749 - DEBUG - Processed frame 112 in 1.651 seconds.
+2025-04-05 07:35:59,403 - DEBUG - Frame 113: 7 detections logged.
+2025-04-05 07:35:59,404 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:35:59,407 - DEBUG - Processed frame 113 in 1.654 seconds.
+2025-04-05 07:36:01,087 - DEBUG - Frame 114: 7 detections logged.
+2025-04-05 07:36:01,087 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:36:01,091 - DEBUG - Processed frame 114 in 1.680 seconds.
+2025-04-05 07:36:02,810 - DEBUG - Frame 115: 8 detections logged.
+2025-04-05 07:36:02,810 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:36:02,813 - DEBUG - Processed frame 115 in 1.718 seconds.
+2025-04-05 07:36:04,498 - DEBUG - Frame 116: 7 detections logged.
+2025-04-05 07:36:04,498 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:36:04,501 - DEBUG - Processed frame 116 in 1.684 seconds.
+2025-04-05 07:36:06,178 - DEBUG - Frame 117: 8 detections logged.
+2025-04-05 07:36:06,178 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:36:06,181 - DEBUG - Processed frame 117 in 1.676 seconds.
+2025-04-05 07:36:07,854 - DEBUG - Frame 118: 9 detections logged.
+2025-04-05 07:36:07,854 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:07,857 - DEBUG - Processed frame 118 in 1.673 seconds.
+2025-04-05 07:36:09,526 - DEBUG - Frame 119: 9 detections logged.
+2025-04-05 07:36:09,527 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:09,530 - DEBUG - Processed frame 119 in 1.669 seconds.
+2025-04-05 07:36:11,166 - DEBUG - Frame 120: 9 detections logged.
+2025-04-05 07:36:11,167 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:11,171 - DEBUG - Processed frame 120 in 1.638 seconds.
+2025-04-05 07:36:12,827 - DEBUG - Frame 121: 8 detections logged.
+2025-04-05 07:36:12,827 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:36:12,831 - DEBUG - Processed frame 121 in 1.655 seconds.
+2025-04-05 07:36:14,499 - DEBUG - Frame 122: 9 detections logged.
+2025-04-05 07:36:14,499 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:14,502 - DEBUG - Processed frame 122 in 1.669 seconds.
+2025-04-05 07:36:16,155 - DEBUG - Frame 123: 9 detections logged.
+2025-04-05 07:36:16,155 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:16,158 - DEBUG - Processed frame 123 in 1.652 seconds.
+2025-04-05 07:36:17,824 - DEBUG - Frame 124: 9 detections logged.
+2025-04-05 07:36:17,824 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:17,826 - DEBUG - Processed frame 124 in 1.664 seconds.
+2025-04-05 07:36:19,499 - DEBUG - Frame 125: 9 detections logged.
+2025-04-05 07:36:19,499 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:19,502 - DEBUG - Processed frame 125 in 1.673 seconds.
+2025-04-05 07:36:21,170 - DEBUG - Frame 126: 9 detections logged.
+2025-04-05 07:36:21,170 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:21,173 - DEBUG - Processed frame 126 in 1.668 seconds.
+2025-04-05 07:36:22,838 - DEBUG - Frame 127: 8 detections logged.
+2025-04-05 07:36:22,838 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:36:22,842 - DEBUG - Processed frame 127 in 1.666 seconds.
+2025-04-05 07:36:24,503 - DEBUG - Frame 128: 9 detections logged.
+2025-04-05 07:36:24,503 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:24,506 - DEBUG - Processed frame 128 in 1.661 seconds.
+2025-04-05 07:36:26,188 - DEBUG - Frame 129: 8 detections logged.
+2025-04-05 07:36:26,188 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:36:26,192 - DEBUG - Processed frame 129 in 1.682 seconds.
+2025-04-05 07:36:27,888 - DEBUG - Frame 130: 6 detections logged.
+2025-04-05 07:36:27,888 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:36:27,891 - DEBUG - Processed frame 130 in 1.697 seconds.
+2025-04-05 07:36:29,584 - DEBUG - Frame 131: 8 detections logged.
+2025-04-05 07:36:29,584 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:36:29,588 - DEBUG - Processed frame 131 in 1.692 seconds.
+2025-04-05 07:36:31,230 - DEBUG - Frame 132: 8 detections logged.
+2025-04-05 07:36:31,230 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:36:31,233 - DEBUG - Processed frame 132 in 1.641 seconds.
+2025-04-05 07:36:32,911 - DEBUG - Frame 133: 9 detections logged.
+2025-04-05 07:36:32,911 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:32,914 - DEBUG - Processed frame 133 in 1.677 seconds.
+2025-04-05 07:36:34,562 - DEBUG - Frame 134: 10 detections logged.
+2025-04-05 07:36:34,562 - WARNING - Alert: High pedestrian density detected (10 persons)!
+2025-04-05 07:36:34,565 - DEBUG - Processed frame 134 in 1.647 seconds.
+2025-04-05 07:36:36,248 - DEBUG - Frame 135: 8 detections logged.
+2025-04-05 07:36:36,248 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:36:36,251 - DEBUG - Processed frame 135 in 1.682 seconds.
+2025-04-05 07:36:37,910 - DEBUG - Frame 136: 10 detections logged.
+2025-04-05 07:36:37,910 - WARNING - Alert: High pedestrian density detected (10 persons)!
+2025-04-05 07:36:37,914 - DEBUG - Processed frame 136 in 1.660 seconds.
+2025-04-05 07:36:39,581 - DEBUG - Frame 137: 11 detections logged.
+2025-04-05 07:36:39,581 - WARNING - Alert: High pedestrian density detected (11 persons)!
+2025-04-05 07:36:39,584 - DEBUG - Processed frame 137 in 1.667 seconds.
+2025-04-05 07:36:41,232 - DEBUG - Frame 138: 11 detections logged.
+2025-04-05 07:36:41,233 - WARNING - Alert: High pedestrian density detected (11 persons)!
+2025-04-05 07:36:41,235 - DEBUG - Processed frame 138 in 1.647 seconds.
+2025-04-05 07:36:42,900 - DEBUG - Frame 139: 9 detections logged.
+2025-04-05 07:36:42,900 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:42,904 - DEBUG - Processed frame 139 in 1.664 seconds.
+2025-04-05 07:36:44,596 - DEBUG - Frame 140: 9 detections logged.
+2025-04-05 07:36:44,596 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:44,600 - DEBUG - Processed frame 140 in 1.694 seconds.
+2025-04-05 07:36:46,266 - DEBUG - Frame 141: 9 detections logged.
+2025-04-05 07:36:46,266 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:46,270 - DEBUG - Processed frame 141 in 1.665 seconds.
+2025-04-05 07:36:47,928 - DEBUG - Frame 142: 9 detections logged.
+2025-04-05 07:36:47,928 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:36:47,931 - DEBUG - Processed frame 142 in 1.659 seconds.
+2025-04-05 07:36:49,622 - DEBUG - Frame 143: 10 detections logged.
+2025-04-05 07:36:49,623 - WARNING - Alert: High pedestrian density detected (10 persons)!
+2025-04-05 07:36:49,626 - DEBUG - Processed frame 143 in 1.691 seconds.
+2025-04-05 07:36:51,252 - DEBUG - Frame 144: 10 detections logged.
+2025-04-05 07:36:51,252 - WARNING - Alert: High pedestrian density detected (10 persons)!
+2025-04-05 07:36:51,256 - DEBUG - Processed frame 144 in 1.627 seconds.
+2025-04-05 07:36:52,882 - DEBUG - Frame 145: 10 detections logged.
+2025-04-05 07:36:52,882 - WARNING - Alert: High pedestrian density detected (10 persons)!
+2025-04-05 07:36:52,885 - DEBUG - Processed frame 145 in 1.625 seconds.
+2025-04-05 07:36:54,507 - DEBUG - Frame 146: 11 detections logged.
+2025-04-05 07:36:54,507 - WARNING - Alert: High pedestrian density detected (11 persons)!
+2025-04-05 07:36:54,511 - DEBUG - Processed frame 146 in 1.622 seconds.
+2025-04-05 07:36:56,165 - DEBUG - Frame 147: 12 detections logged.
+2025-04-05 07:36:56,165 - WARNING - Alert: High pedestrian density detected (12 persons)!
+2025-04-05 07:36:56,168 - DEBUG - Processed frame 147 in 1.654 seconds.
+2025-04-05 07:36:57,841 - DEBUG - Frame 148: 10 detections logged.
+2025-04-05 07:36:57,841 - WARNING - Alert: High pedestrian density detected (10 persons)!
+2025-04-05 07:36:57,845 - DEBUG - Processed frame 148 in 1.673 seconds.
+2025-04-05 07:36:59,509 - DEBUG - Frame 149: 8 detections logged.
+2025-04-05 07:36:59,509 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:36:59,512 - DEBUG - Processed frame 149 in 1.664 seconds.
+2025-04-05 07:37:01,174 - DEBUG - Frame 150: 7 detections logged.
+2025-04-05 07:37:01,174 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:01,177 - DEBUG - Processed frame 150 in 1.661 seconds.
+2025-04-05 07:37:02,850 - DEBUG - Frame 151: 8 detections logged.
+2025-04-05 07:37:02,850 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:02,853 - DEBUG - Processed frame 151 in 1.672 seconds.
+2025-04-05 07:37:04,513 - DEBUG - Frame 152: 7 detections logged.
+2025-04-05 07:37:04,513 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:04,517 - DEBUG - Processed frame 152 in 1.660 seconds.
+2025-04-05 07:37:06,171 - DEBUG - Frame 153: 9 detections logged.
+2025-04-05 07:37:06,171 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:37:06,174 - DEBUG - Processed frame 153 in 1.654 seconds.
+2025-04-05 07:37:07,852 - DEBUG - Frame 154: 8 detections logged.
+2025-04-05 07:37:07,852 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:07,854 - DEBUG - Processed frame 154 in 1.676 seconds.
+2025-04-05 07:37:09,514 - DEBUG - Frame 155: 7 detections logged.
+2025-04-05 07:37:09,514 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:09,517 - DEBUG - Processed frame 155 in 1.660 seconds.
+2025-04-05 07:37:11,171 - DEBUG - Frame 156: 8 detections logged.
+2025-04-05 07:37:11,171 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:11,174 - DEBUG - Processed frame 156 in 1.653 seconds.
+2025-04-05 07:37:12,815 - DEBUG - Frame 157: 9 detections logged.
+2025-04-05 07:37:12,815 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:37:12,817 - DEBUG - Processed frame 157 in 1.640 seconds.
+2025-04-05 07:37:14,484 - DEBUG - Frame 158: 7 detections logged.
+2025-04-05 07:37:14,484 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:14,487 - DEBUG - Processed frame 158 in 1.666 seconds.
+2025-04-05 07:37:16,141 - DEBUG - Frame 159: 7 detections logged.
+2025-04-05 07:37:16,141 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:16,144 - DEBUG - Processed frame 159 in 1.654 seconds.
+2025-04-05 07:37:17,803 - DEBUG - Frame 160: 8 detections logged.
+2025-04-05 07:37:17,803 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:17,806 - DEBUG - Processed frame 160 in 1.660 seconds.
+2025-04-05 07:37:19,456 - DEBUG - Frame 161: 7 detections logged.
+2025-04-05 07:37:19,458 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:19,460 - DEBUG - Processed frame 161 in 1.651 seconds.
+2025-04-05 07:37:21,125 - DEBUG - Frame 162: 7 detections logged.
+2025-04-05 07:37:21,125 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:21,129 - DEBUG - Processed frame 162 in 1.665 seconds.
+2025-04-05 07:37:22,783 - DEBUG - Frame 163: 7 detections logged.
+2025-04-05 07:37:22,783 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:22,786 - DEBUG - Processed frame 163 in 1.654 seconds.
+2025-04-05 07:37:24,457 - DEBUG - Frame 164: 7 detections logged.
+2025-04-05 07:37:24,457 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:24,460 - DEBUG - Processed frame 164 in 1.670 seconds.
+2025-04-05 07:37:26,151 - DEBUG - Frame 165: 7 detections logged.
+2025-04-05 07:37:26,151 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:26,154 - DEBUG - Processed frame 165 in 1.691 seconds.
+2025-04-05 07:37:27,813 - DEBUG - Frame 166: 8 detections logged.
+2025-04-05 07:37:27,813 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:27,816 - DEBUG - Processed frame 166 in 1.659 seconds.
+2025-04-05 07:37:29,483 - DEBUG - Frame 167: 7 detections logged.
+2025-04-05 07:37:29,483 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:29,487 - DEBUG - Processed frame 167 in 1.667 seconds.
+2025-04-05 07:37:31,137 - DEBUG - Frame 168: 8 detections logged.
+2025-04-05 07:37:31,137 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:31,140 - DEBUG - Processed frame 168 in 1.650 seconds.
+2025-04-05 07:37:32,808 - DEBUG - Frame 169: 9 detections logged.
+2025-04-05 07:37:32,808 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 07:37:32,810 - DEBUG - Processed frame 169 in 1.666 seconds.
+2025-04-05 07:37:34,453 - DEBUG - Frame 170: 8 detections logged.
+2025-04-05 07:37:34,453 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:34,456 - DEBUG - Processed frame 170 in 1.642 seconds.
+2025-04-05 07:37:36,143 - DEBUG - Frame 171: 8 detections logged.
+2025-04-05 07:37:36,143 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:36,146 - DEBUG - Processed frame 171 in 1.687 seconds.
+2025-04-05 07:37:37,808 - DEBUG - Frame 172: 8 detections logged.
+2025-04-05 07:37:37,808 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:37,811 - DEBUG - Processed frame 172 in 1.661 seconds.
+2025-04-05 07:37:39,460 - DEBUG - Frame 173: 8 detections logged.
+2025-04-05 07:37:39,461 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:39,463 - DEBUG - Processed frame 173 in 1.649 seconds.
+2025-04-05 07:37:41,119 - DEBUG - Frame 174: 7 detections logged.
+2025-04-05 07:37:41,119 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:41,121 - DEBUG - Processed frame 174 in 1.654 seconds.
+2025-04-05 07:37:42,788 - DEBUG - Frame 175: 8 detections logged.
+2025-04-05 07:37:42,788 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:42,791 - DEBUG - Processed frame 175 in 1.666 seconds.
+2025-04-05 07:37:44,422 - DEBUG - Frame 176: 7 detections logged.
+2025-04-05 07:37:44,422 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:44,425 - DEBUG - Processed frame 176 in 1.632 seconds.
+2025-04-05 07:37:46,099 - DEBUG - Frame 177: 7 detections logged.
+2025-04-05 07:37:46,100 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:46,102 - DEBUG - Processed frame 177 in 1.673 seconds.
+2025-04-05 07:37:47,765 - DEBUG - Frame 178: 7 detections logged.
+2025-04-05 07:37:47,765 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:47,768 - DEBUG - Processed frame 178 in 1.662 seconds.
+2025-04-05 07:37:49,407 - DEBUG - Frame 179: 7 detections logged.
+2025-04-05 07:37:49,407 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:49,410 - DEBUG - Processed frame 179 in 1.640 seconds.
+2025-04-05 07:37:51,054 - DEBUG - Frame 180: 7 detections logged.
+2025-04-05 07:37:51,054 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:51,058 - DEBUG - Processed frame 180 in 1.644 seconds.
+2025-04-05 07:37:52,744 - DEBUG - Frame 181: 7 detections logged.
+2025-04-05 07:37:52,745 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:52,747 - DEBUG - Processed frame 181 in 1.685 seconds.
+2025-04-05 07:37:54,361 - DEBUG - Frame 182: 7 detections logged.
+2025-04-05 07:37:54,361 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:54,364 - DEBUG - Processed frame 182 in 1.614 seconds.
+2025-04-05 07:37:55,993 - DEBUG - Frame 183: 8 detections logged.
+2025-04-05 07:37:55,993 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:37:55,997 - DEBUG - Processed frame 183 in 1.630 seconds.
+2025-04-05 07:37:57,603 - DEBUG - Frame 184: 7 detections logged.
+2025-04-05 07:37:57,604 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:57,606 - DEBUG - Processed frame 184 in 1.606 seconds.
+2025-04-05 07:37:59,250 - DEBUG - Frame 185: 7 detections logged.
+2025-04-05 07:37:59,250 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:37:59,253 - DEBUG - Processed frame 185 in 1.645 seconds.
+2025-04-05 07:38:00,879 - DEBUG - Frame 186: 7 detections logged.
+2025-04-05 07:38:00,879 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:00,882 - DEBUG - Processed frame 186 in 1.625 seconds.
+2025-04-05 07:38:02,504 - DEBUG - Frame 187: 7 detections logged.
+2025-04-05 07:38:02,504 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:02,507 - DEBUG - Processed frame 187 in 1.622 seconds.
+2025-04-05 07:38:04,160 - DEBUG - Frame 188: 7 detections logged.
+2025-04-05 07:38:04,160 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:04,163 - DEBUG - Processed frame 188 in 1.653 seconds.
+2025-04-05 07:38:05,820 - DEBUG - Frame 189: 7 detections logged.
+2025-04-05 07:38:05,821 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:05,824 - DEBUG - Processed frame 189 in 1.658 seconds.
+2025-04-05 07:38:07,463 - DEBUG - Frame 190: 7 detections logged.
+2025-04-05 07:38:07,463 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:07,466 - DEBUG - Processed frame 190 in 1.638 seconds.
+2025-04-05 07:38:09,124 - DEBUG - Frame 191: 7 detections logged.
+2025-04-05 07:38:09,124 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:09,127 - DEBUG - Processed frame 191 in 1.658 seconds.
+2025-04-05 07:38:10,752 - DEBUG - Frame 192: 7 detections logged.
+2025-04-05 07:38:10,752 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:10,756 - DEBUG - Processed frame 192 in 1.625 seconds.
+2025-04-05 07:38:12,430 - DEBUG - Frame 193: 7 detections logged.
+2025-04-05 07:38:12,430 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:12,432 - DEBUG - Processed frame 193 in 1.673 seconds.
+2025-04-05 07:38:14,091 - DEBUG - Frame 194: 7 detections logged.
+2025-04-05 07:38:14,091 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:14,095 - DEBUG - Processed frame 194 in 1.659 seconds.
+2025-04-05 07:38:15,719 - DEBUG - Frame 195: 7 detections logged.
+2025-04-05 07:38:15,719 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:15,723 - DEBUG - Processed frame 195 in 1.625 seconds.
+2025-04-05 07:38:17,342 - DEBUG - Frame 196: 7 detections logged.
+2025-04-05 07:38:17,342 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:17,345 - DEBUG - Processed frame 196 in 1.618 seconds.
+2025-04-05 07:38:18,963 - DEBUG - Frame 197: 7 detections logged.
+2025-04-05 07:38:18,963 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:18,967 - DEBUG - Processed frame 197 in 1.617 seconds.
+2025-04-05 07:38:20,587 - DEBUG - Frame 198: 7 detections logged.
+2025-04-05 07:38:20,587 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:20,591 - DEBUG - Processed frame 198 in 1.621 seconds.
+2025-04-05 07:38:22,232 - DEBUG - Frame 199: 7 detections logged.
+2025-04-05 07:38:22,232 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:22,236 - DEBUG - Processed frame 199 in 1.642 seconds.
+2025-04-05 07:38:23,860 - DEBUG - Frame 200: 7 detections logged.
+2025-04-05 07:38:23,860 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:23,863 - DEBUG - Processed frame 200 in 1.624 seconds.
+2025-04-05 07:38:25,484 - DEBUG - Frame 201: 7 detections logged.
+2025-04-05 07:38:25,485 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:25,489 - DEBUG - Processed frame 201 in 1.623 seconds.
+2025-04-05 07:38:27,114 - DEBUG - Frame 202: 7 detections logged.
+2025-04-05 07:38:27,115 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:27,118 - DEBUG - Processed frame 202 in 1.625 seconds.
+2025-04-05 07:38:28,746 - DEBUG - Frame 203: 7 detections logged.
+2025-04-05 07:38:28,746 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:28,750 - DEBUG - Processed frame 203 in 1.628 seconds.
+2025-04-05 07:38:30,367 - DEBUG - Frame 204: 7 detections logged.
+2025-04-05 07:38:30,367 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:30,371 - DEBUG - Processed frame 204 in 1.618 seconds.
+2025-04-05 07:38:31,981 - DEBUG - Frame 205: 7 detections logged.
+2025-04-05 07:38:31,981 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:31,985 - DEBUG - Processed frame 205 in 1.611 seconds.
+2025-04-05 07:38:33,602 - DEBUG - Frame 206: 7 detections logged.
+2025-04-05 07:38:33,602 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:33,605 - DEBUG - Processed frame 206 in 1.618 seconds.
+2025-04-05 07:38:35,228 - DEBUG - Frame 207: 7 detections logged.
+2025-04-05 07:38:35,228 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:35,231 - DEBUG - Processed frame 207 in 1.623 seconds.
+2025-04-05 07:38:36,904 - DEBUG - Frame 208: 7 detections logged.
+2025-04-05 07:38:36,904 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:36,907 - DEBUG - Processed frame 208 in 1.672 seconds.
+2025-04-05 07:38:38,544 - DEBUG - Frame 209: 7 detections logged.
+2025-04-05 07:38:38,544 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:38,548 - DEBUG - Processed frame 209 in 1.638 seconds.
+2025-04-05 07:38:40,176 - DEBUG - Frame 210: 7 detections logged.
+2025-04-05 07:38:40,176 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:40,179 - DEBUG - Processed frame 210 in 1.628 seconds.
+2025-04-05 07:38:41,803 - DEBUG - Frame 211: 6 detections logged.
+2025-04-05 07:38:41,803 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:38:41,806 - DEBUG - Processed frame 211 in 1.622 seconds.
+2025-04-05 07:38:43,427 - DEBUG - Frame 212: 6 detections logged.
+2025-04-05 07:38:43,427 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:38:43,430 - DEBUG - Processed frame 212 in 1.621 seconds.
+2025-04-05 07:38:45,047 - DEBUG - Frame 213: 6 detections logged.
+2025-04-05 07:38:45,047 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:38:45,049 - DEBUG - Processed frame 213 in 1.617 seconds.
+2025-04-05 07:38:46,690 - DEBUG - Frame 214: 6 detections logged.
+2025-04-05 07:38:46,690 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:38:46,693 - DEBUG - Processed frame 214 in 1.640 seconds.
+2025-04-05 07:38:48,326 - DEBUG - Frame 215: 6 detections logged.
+2025-04-05 07:38:48,326 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:38:48,330 - DEBUG - Processed frame 215 in 1.633 seconds.
+2025-04-05 07:38:49,950 - DEBUG - Frame 216: 6 detections logged.
+2025-04-05 07:38:49,950 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:38:49,953 - DEBUG - Processed frame 216 in 1.620 seconds.
+2025-04-05 07:38:51,606 - DEBUG - Frame 217: 6 detections logged.
+2025-04-05 07:38:51,607 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:38:51,610 - DEBUG - Processed frame 217 in 1.653 seconds.
+2025-04-05 07:38:53,219 - DEBUG - Frame 218: 7 detections logged.
+2025-04-05 07:38:53,220 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:53,223 - DEBUG - Processed frame 218 in 1.609 seconds.
+2025-04-05 07:38:54,839 - DEBUG - Frame 219: 7 detections logged.
+2025-04-05 07:38:54,839 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:54,842 - DEBUG - Processed frame 219 in 1.614 seconds.
+2025-04-05 07:38:56,457 - DEBUG - Frame 220: 7 detections logged.
+2025-04-05 07:38:56,457 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:56,459 - DEBUG - Processed frame 220 in 1.614 seconds.
+2025-04-05 07:38:58,084 - DEBUG - Frame 221: 7 detections logged.
+2025-04-05 07:38:58,084 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:38:58,087 - DEBUG - Processed frame 221 in 1.624 seconds.
+2025-04-05 07:38:59,705 - DEBUG - Frame 222: 6 detections logged.
+2025-04-05 07:38:59,706 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:38:59,709 - DEBUG - Processed frame 222 in 1.618 seconds.
+2025-04-05 07:39:01,321 - DEBUG - Frame 223: 6 detections logged.
+2025-04-05 07:39:01,321 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:39:01,324 - DEBUG - Processed frame 223 in 1.611 seconds.
+2025-04-05 07:39:02,949 - DEBUG - Frame 224: 6 detections logged.
+2025-04-05 07:39:02,950 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:39:02,952 - DEBUG - Processed frame 224 in 1.626 seconds.
+2025-04-05 07:39:04,565 - DEBUG - Frame 225: 6 detections logged.
+2025-04-05 07:39:04,565 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:39:04,568 - DEBUG - Processed frame 225 in 1.613 seconds.
+2025-04-05 07:39:06,194 - DEBUG - Frame 226: 7 detections logged.
+2025-04-05 07:39:06,194 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:06,197 - DEBUG - Processed frame 226 in 1.626 seconds.
+2025-04-05 07:39:07,828 - DEBUG - Frame 227: 7 detections logged.
+2025-04-05 07:39:07,828 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:07,831 - DEBUG - Processed frame 227 in 1.632 seconds.
+2025-04-05 07:39:09,472 - DEBUG - Frame 228: 7 detections logged.
+2025-04-05 07:39:09,472 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:09,476 - DEBUG - Processed frame 228 in 1.640 seconds.
+2025-04-05 07:39:11,084 - DEBUG - Frame 229: 7 detections logged.
+2025-04-05 07:39:11,084 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:11,088 - DEBUG - Processed frame 229 in 1.609 seconds.
+2025-04-05 07:39:12,708 - DEBUG - Frame 230: 7 detections logged.
+2025-04-05 07:39:12,708 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:12,711 - DEBUG - Processed frame 230 in 1.619 seconds.
+2025-04-05 07:39:14,323 - DEBUG - Frame 231: 8 detections logged.
+2025-04-05 07:39:14,324 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:39:14,326 - DEBUG - Processed frame 231 in 1.612 seconds.
+2025-04-05 07:39:15,942 - DEBUG - Frame 232: 7 detections logged.
+2025-04-05 07:39:15,943 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:15,945 - DEBUG - Processed frame 232 in 1.616 seconds.
+2025-04-05 07:39:17,550 - DEBUG - Frame 233: 7 detections logged.
+2025-04-05 07:39:17,550 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:17,553 - DEBUG - Processed frame 233 in 1.603 seconds.
+2025-04-05 07:39:19,163 - DEBUG - Frame 234: 7 detections logged.
+2025-04-05 07:39:19,163 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:19,166 - DEBUG - Processed frame 234 in 1.610 seconds.
+2025-04-05 07:39:20,788 - DEBUG - Frame 235: 7 detections logged.
+2025-04-05 07:39:20,788 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:20,792 - DEBUG - Processed frame 235 in 1.623 seconds.
+2025-04-05 07:39:22,408 - DEBUG - Frame 236: 7 detections logged.
+2025-04-05 07:39:22,408 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:22,412 - DEBUG - Processed frame 236 in 1.616 seconds.
+2025-04-05 07:39:24,027 - DEBUG - Frame 237: 8 detections logged.
+2025-04-05 07:39:24,027 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:39:24,030 - DEBUG - Processed frame 237 in 1.614 seconds.
+2025-04-05 07:39:25,660 - DEBUG - Frame 238: 8 detections logged.
+2025-04-05 07:39:25,660 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:39:25,662 - DEBUG - Processed frame 238 in 1.629 seconds.
+2025-04-05 07:39:27,294 - DEBUG - Frame 239: 8 detections logged.
+2025-04-05 07:39:27,294 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:39:27,297 - DEBUG - Processed frame 239 in 1.632 seconds.
+2025-04-05 07:39:28,934 - DEBUG - Frame 240: 7 detections logged.
+2025-04-05 07:39:28,934 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:28,938 - DEBUG - Processed frame 240 in 1.638 seconds.
+2025-04-05 07:39:30,560 - DEBUG - Frame 241: 7 detections logged.
+2025-04-05 07:39:30,560 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:30,563 - DEBUG - Processed frame 241 in 1.621 seconds.
+2025-04-05 07:39:32,197 - DEBUG - Frame 242: 7 detections logged.
+2025-04-05 07:39:32,197 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:32,200 - DEBUG - Processed frame 242 in 1.633 seconds.
+2025-04-05 07:39:33,872 - DEBUG - Frame 243: 7 detections logged.
+2025-04-05 07:39:33,873 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:33,875 - DEBUG - Processed frame 243 in 1.671 seconds.
+2025-04-05 07:39:35,526 - DEBUG - Frame 244: 7 detections logged.
+2025-04-05 07:39:35,527 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:35,530 - DEBUG - Processed frame 244 in 1.652 seconds.
+2025-04-05 07:39:37,167 - DEBUG - Frame 245: 7 detections logged.
+2025-04-05 07:39:37,168 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:37,171 - DEBUG - Processed frame 245 in 1.638 seconds.
+2025-04-05 07:39:38,840 - DEBUG - Frame 246: 7 detections logged.
+2025-04-05 07:39:38,840 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:38,843 - DEBUG - Processed frame 246 in 1.668 seconds.
+2025-04-05 07:39:40,493 - DEBUG - Frame 247: 7 detections logged.
+2025-04-05 07:39:40,494 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:40,496 - DEBUG - Processed frame 247 in 1.649 seconds.
+2025-04-05 07:39:42,134 - DEBUG - Frame 248: 7 detections logged.
+2025-04-05 07:39:42,134 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:42,137 - DEBUG - Processed frame 248 in 1.637 seconds.
+2025-04-05 07:39:43,791 - DEBUG - Frame 249: 7 detections logged.
+2025-04-05 07:39:43,791 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:43,794 - DEBUG - Processed frame 249 in 1.653 seconds.
+2025-04-05 07:39:45,480 - DEBUG - Frame 250: 7 detections logged.
+2025-04-05 07:39:45,480 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:45,484 - DEBUG - Processed frame 250 in 1.684 seconds.
+2025-04-05 07:39:47,142 - DEBUG - Frame 251: 7 detections logged.
+2025-04-05 07:39:47,142 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:47,146 - DEBUG - Processed frame 251 in 1.657 seconds.
+2025-04-05 07:39:48,797 - DEBUG - Frame 252: 7 detections logged.
+2025-04-05 07:39:48,798 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:48,801 - DEBUG - Processed frame 252 in 1.650 seconds.
+2025-04-05 07:39:50,458 - DEBUG - Frame 253: 7 detections logged.
+2025-04-05 07:39:50,458 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:50,462 - DEBUG - Processed frame 253 in 1.656 seconds.
+2025-04-05 07:39:52,113 - DEBUG - Frame 254: 7 detections logged.
+2025-04-05 07:39:52,113 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:52,116 - DEBUG - Processed frame 254 in 1.651 seconds.
+2025-04-05 07:39:53,708 - DEBUG - Frame 255: 7 detections logged.
+2025-04-05 07:39:53,709 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:53,711 - DEBUG - Processed frame 255 in 1.592 seconds.
+2025-04-05 07:39:55,321 - DEBUG - Frame 256: 7 detections logged.
+2025-04-05 07:39:55,322 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:55,324 - DEBUG - Processed frame 256 in 1.610 seconds.
+2025-04-05 07:39:56,911 - DEBUG - Frame 257: 7 detections logged.
+2025-04-05 07:39:56,911 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:56,914 - DEBUG - Processed frame 257 in 1.587 seconds.
+2025-04-05 07:39:58,495 - DEBUG - Frame 258: 7 detections logged.
+2025-04-05 07:39:58,495 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:39:58,498 - DEBUG - Processed frame 258 in 1.581 seconds.
+2025-04-05 07:40:00,088 - DEBUG - Frame 259: 7 detections logged.
+2025-04-05 07:40:00,088 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:00,091 - DEBUG - Processed frame 259 in 1.589 seconds.
+2025-04-05 07:40:01,699 - DEBUG - Frame 260: 7 detections logged.
+2025-04-05 07:40:01,699 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:01,703 - DEBUG - Processed frame 260 in 1.608 seconds.
+2025-04-05 07:40:03,283 - DEBUG - Frame 261: 7 detections logged.
+2025-04-05 07:40:03,284 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:03,285 - DEBUG - Processed frame 261 in 1.579 seconds.
+2025-04-05 07:40:04,846 - DEBUG - Frame 262: 7 detections logged.
+2025-04-05 07:40:04,846 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:04,849 - DEBUG - Processed frame 262 in 1.560 seconds.
+2025-04-05 07:40:06,436 - DEBUG - Frame 263: 7 detections logged.
+2025-04-05 07:40:06,436 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:06,439 - DEBUG - Processed frame 263 in 1.586 seconds.
+2025-04-05 07:40:08,316 - DEBUG - Frame 264: 7 detections logged.
+2025-04-05 07:40:08,316 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:08,320 - DEBUG - Processed frame 264 in 1.877 seconds.
+2025-04-05 07:40:10,048 - DEBUG - Frame 265: 8 detections logged.
+2025-04-05 07:40:10,048 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:40:10,051 - DEBUG - Processed frame 265 in 1.727 seconds.
+2025-04-05 07:40:11,766 - DEBUG - Frame 266: 7 detections logged.
+2025-04-05 07:40:11,766 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:11,770 - DEBUG - Processed frame 266 in 1.716 seconds.
+2025-04-05 07:40:13,650 - DEBUG - Frame 267: 7 detections logged.
+2025-04-05 07:40:13,650 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:13,654 - DEBUG - Processed frame 267 in 1.880 seconds.
+2025-04-05 07:40:15,352 - DEBUG - Frame 268: 7 detections logged.
+2025-04-05 07:40:15,353 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:15,355 - DEBUG - Processed frame 268 in 1.697 seconds.
+2025-04-05 07:40:17,096 - DEBUG - Frame 269: 7 detections logged.
+2025-04-05 07:40:17,097 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:17,099 - DEBUG - Processed frame 269 in 1.742 seconds.
+2025-04-05 07:40:18,901 - DEBUG - Frame 270: 7 detections logged.
+2025-04-05 07:40:18,901 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:18,905 - DEBUG - Processed frame 270 in 1.801 seconds.
+2025-04-05 07:40:20,595 - DEBUG - Frame 271: 7 detections logged.
+2025-04-05 07:40:20,595 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:20,598 - DEBUG - Processed frame 271 in 1.688 seconds.
+2025-04-05 07:40:22,259 - DEBUG - Frame 272: 6 detections logged.
+2025-04-05 07:40:22,259 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:40:22,263 - DEBUG - Processed frame 272 in 1.662 seconds.
+2025-04-05 07:40:24,179 - DEBUG - Frame 273: 7 detections logged.
+2025-04-05 07:40:24,179 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:24,182 - DEBUG - Processed frame 273 in 1.915 seconds.
+2025-04-05 07:40:25,965 - DEBUG - Frame 274: 7 detections logged.
+2025-04-05 07:40:25,965 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:25,969 - DEBUG - Processed frame 274 in 1.783 seconds.
+2025-04-05 07:40:27,777 - DEBUG - Frame 275: 7 detections logged.
+2025-04-05 07:40:27,779 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:27,782 - DEBUG - Processed frame 275 in 1.808 seconds.
+2025-04-05 07:40:29,490 - DEBUG - Frame 276: 7 detections logged.
+2025-04-05 07:40:29,490 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:29,495 - DEBUG - Processed frame 276 in 1.708 seconds.
+2025-04-05 07:40:31,077 - DEBUG - Frame 277: 8 detections logged.
+2025-04-05 07:40:31,077 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:40:31,080 - DEBUG - Processed frame 277 in 1.582 seconds.
+2025-04-05 07:40:32,683 - DEBUG - Frame 278: 8 detections logged.
+2025-04-05 07:40:32,683 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:40:32,685 - DEBUG - Processed frame 278 in 1.602 seconds.
+2025-04-05 07:40:34,545 - DEBUG - Frame 279: 7 detections logged.
+2025-04-05 07:40:34,545 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:34,548 - DEBUG - Processed frame 279 in 1.860 seconds.
+2025-04-05 07:40:36,348 - DEBUG - Frame 280: 7 detections logged.
+2025-04-05 07:40:36,348 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:36,351 - DEBUG - Processed frame 280 in 1.800 seconds.
+2025-04-05 07:40:38,286 - DEBUG - Frame 281: 7 detections logged.
+2025-04-05 07:40:38,286 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:38,289 - DEBUG - Processed frame 281 in 1.934 seconds.
+2025-04-05 07:40:39,911 - DEBUG - Frame 282: 7 detections logged.
+2025-04-05 07:40:39,911 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:39,916 - DEBUG - Processed frame 282 in 1.622 seconds.
+2025-04-05 07:40:41,445 - DEBUG - Frame 283: 7 detections logged.
+2025-04-05 07:40:41,445 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:41,448 - DEBUG - Processed frame 283 in 1.530 seconds.
+2025-04-05 07:40:42,962 - DEBUG - Frame 284: 7 detections logged.
+2025-04-05 07:40:42,962 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:42,964 - DEBUG - Processed frame 284 in 1.513 seconds.
+2025-04-05 07:40:44,829 - DEBUG - Frame 285: 7 detections logged.
+2025-04-05 07:40:44,829 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:44,832 - DEBUG - Processed frame 285 in 1.863 seconds.
+2025-04-05 07:40:46,545 - DEBUG - Frame 286: 7 detections logged.
+2025-04-05 07:40:46,545 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:46,547 - DEBUG - Processed frame 286 in 1.711 seconds.
+2025-04-05 07:40:48,229 - DEBUG - Frame 287: 7 detections logged.
+2025-04-05 07:40:48,229 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 07:40:48,232 - DEBUG - Processed frame 287 in 1.682 seconds.
+2025-04-05 07:40:49,917 - DEBUG - Frame 288: 6 detections logged.
+2025-04-05 07:40:49,917 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:40:49,921 - DEBUG - Processed frame 288 in 1.685 seconds.
+2025-04-05 07:40:51,500 - DEBUG - Frame 289: 6 detections logged.
+2025-04-05 07:40:51,500 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:40:51,504 - DEBUG - Processed frame 289 in 1.579 seconds.
+2025-04-05 07:40:53,134 - DEBUG - Frame 290: 6 detections logged.
+2025-04-05 07:40:53,134 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:40:53,138 - DEBUG - Processed frame 290 in 1.631 seconds.
+2025-04-05 07:40:54,891 - DEBUG - Frame 291: 6 detections logged.
+2025-04-05 07:40:54,891 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:40:54,894 - DEBUG - Processed frame 291 in 1.751 seconds.
+2025-04-05 07:40:56,561 - DEBUG - Frame 292: 6 detections logged.
+2025-04-05 07:40:56,561 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:40:56,563 - DEBUG - Processed frame 292 in 1.667 seconds.
+2025-04-05 07:40:58,143 - DEBUG - Frame 293: 6 detections logged.
+2025-04-05 07:40:58,143 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:40:58,145 - DEBUG - Processed frame 293 in 1.579 seconds.
+2025-04-05 07:40:59,706 - DEBUG - Frame 294: 5 detections logged.
+2025-04-05 07:40:59,706 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:40:59,709 - DEBUG - Processed frame 294 in 1.561 seconds.
+2025-04-05 07:41:01,298 - DEBUG - Frame 295: 6 detections logged.
+2025-04-05 07:41:01,298 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:01,302 - DEBUG - Processed frame 295 in 1.589 seconds.
+2025-04-05 07:41:02,855 - DEBUG - Frame 296: 6 detections logged.
+2025-04-05 07:41:02,855 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:02,857 - DEBUG - Processed frame 296 in 1.553 seconds.
+2025-04-05 07:41:04,436 - DEBUG - Frame 297: 6 detections logged.
+2025-04-05 07:41:04,437 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:04,440 - DEBUG - Processed frame 297 in 1.579 seconds.
+2025-04-05 07:41:06,147 - DEBUG - Frame 298: 6 detections logged.
+2025-04-05 07:41:06,147 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:06,150 - DEBUG - Processed frame 298 in 1.706 seconds.
+2025-04-05 07:41:07,910 - DEBUG - Frame 299: 6 detections logged.
+2025-04-05 07:41:07,910 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:07,912 - DEBUG - Processed frame 299 in 1.759 seconds.
+2025-04-05 07:41:09,629 - DEBUG - Frame 300: 6 detections logged.
+2025-04-05 07:41:09,630 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:09,634 - DEBUG - Processed frame 300 in 1.717 seconds.
+2025-04-05 07:41:11,363 - DEBUG - Frame 301: 6 detections logged.
+2025-04-05 07:41:11,363 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:11,366 - DEBUG - Processed frame 301 in 1.729 seconds.
+2025-04-05 07:41:13,098 - DEBUG - Frame 302: 6 detections logged.
+2025-04-05 07:41:13,099 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:13,102 - DEBUG - Processed frame 302 in 1.731 seconds.
+2025-04-05 07:41:14,861 - DEBUG - Frame 303: 6 detections logged.
+2025-04-05 07:41:14,861 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:14,864 - DEBUG - Processed frame 303 in 1.759 seconds.
+2025-04-05 07:41:16,599 - DEBUG - Frame 304: 5 detections logged.
+2025-04-05 07:41:16,599 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:41:16,602 - DEBUG - Processed frame 304 in 1.735 seconds.
+2025-04-05 07:41:18,330 - DEBUG - Frame 305: 6 detections logged.
+2025-04-05 07:41:18,330 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:18,332 - DEBUG - Processed frame 305 in 1.726 seconds.
+2025-04-05 07:41:20,064 - DEBUG - Frame 306: 6 detections logged.
+2025-04-05 07:41:20,064 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:20,067 - DEBUG - Processed frame 306 in 1.732 seconds.
+2025-04-05 07:41:21,801 - DEBUG - Frame 307: 6 detections logged.
+2025-04-05 07:41:21,801 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:21,804 - DEBUG - Processed frame 307 in 1.734 seconds.
+2025-04-05 07:41:23,533 - DEBUG - Frame 308: 6 detections logged.
+2025-04-05 07:41:23,533 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:23,537 - DEBUG - Processed frame 308 in 1.730 seconds.
+2025-04-05 07:41:25,270 - DEBUG - Frame 309: 6 detections logged.
+2025-04-05 07:41:25,270 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:25,273 - DEBUG - Processed frame 309 in 1.733 seconds.
+2025-04-05 07:41:27,021 - DEBUG - Frame 310: 6 detections logged.
+2025-04-05 07:41:27,022 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:27,025 - DEBUG - Processed frame 310 in 1.747 seconds.
+2025-04-05 07:41:28,755 - DEBUG - Frame 311: 6 detections logged.
+2025-04-05 07:41:28,755 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:28,758 - DEBUG - Processed frame 311 in 1.730 seconds.
+2025-04-05 07:41:30,493 - DEBUG - Frame 312: 6 detections logged.
+2025-04-05 07:41:30,493 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:30,496 - DEBUG - Processed frame 312 in 1.734 seconds.
+2025-04-05 07:41:32,240 - DEBUG - Frame 313: 6 detections logged.
+2025-04-05 07:41:32,240 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:32,243 - DEBUG - Processed frame 313 in 1.743 seconds.
+2025-04-05 07:41:33,945 - DEBUG - Frame 314: 6 detections logged.
+2025-04-05 07:41:33,946 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:33,949 - DEBUG - Processed frame 314 in 1.703 seconds.
+2025-04-05 07:41:35,708 - DEBUG - Frame 315: 6 detections logged.
+2025-04-05 07:41:35,708 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:35,712 - DEBUG - Processed frame 315 in 1.759 seconds.
+2025-04-05 07:41:37,473 - DEBUG - Frame 316: 6 detections logged.
+2025-04-05 07:41:37,473 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:37,475 - DEBUG - Processed frame 316 in 1.759 seconds.
+2025-04-05 07:41:39,149 - DEBUG - Frame 317: 6 detections logged.
+2025-04-05 07:41:39,149 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:39,152 - DEBUG - Processed frame 317 in 1.674 seconds.
+2025-04-05 07:41:40,815 - DEBUG - Frame 318: 6 detections logged.
+2025-04-05 07:41:40,815 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:40,818 - DEBUG - Processed frame 318 in 1.662 seconds.
+2025-04-05 07:41:42,512 - DEBUG - Frame 319: 8 detections logged.
+2025-04-05 07:41:42,512 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 07:41:42,515 - DEBUG - Processed frame 319 in 1.694 seconds.
+2025-04-05 07:41:44,179 - DEBUG - Frame 320: 6 detections logged.
+2025-04-05 07:41:44,179 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:44,181 - DEBUG - Processed frame 320 in 1.663 seconds.
+2025-04-05 07:41:45,902 - DEBUG - Frame 321: 6 detections logged.
+2025-04-05 07:41:45,902 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:45,906 - DEBUG - Processed frame 321 in 1.722 seconds.
+2025-04-05 07:41:47,612 - DEBUG - Frame 322: 6 detections logged.
+2025-04-05 07:41:47,612 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:47,615 - DEBUG - Processed frame 322 in 1.706 seconds.
+2025-04-05 07:41:49,262 - DEBUG - Frame 323: 6 detections logged.
+2025-04-05 07:41:49,262 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:49,265 - DEBUG - Processed frame 323 in 1.647 seconds.
+2025-04-05 07:41:50,988 - DEBUG - Frame 324: 6 detections logged.
+2025-04-05 07:41:50,988 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:50,992 - DEBUG - Processed frame 324 in 1.722 seconds.
+2025-04-05 07:41:52,694 - DEBUG - Frame 325: 6 detections logged.
+2025-04-05 07:41:52,695 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:52,697 - DEBUG - Processed frame 325 in 1.701 seconds.
+2025-04-05 07:41:54,405 - DEBUG - Frame 326: 6 detections logged.
+2025-04-05 07:41:54,405 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:54,409 - DEBUG - Processed frame 326 in 1.708 seconds.
+2025-04-05 07:41:56,171 - DEBUG - Frame 327: 6 detections logged.
+2025-04-05 07:41:56,171 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:56,174 - DEBUG - Processed frame 327 in 1.762 seconds.
+2025-04-05 07:41:58,165 - DEBUG - Frame 328: 6 detections logged.
+2025-04-05 07:41:58,165 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:41:58,168 - DEBUG - Processed frame 328 in 1.990 seconds.
+2025-04-05 07:42:00,176 - DEBUG - Frame 329: 6 detections logged.
+2025-04-05 07:42:00,176 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:00,179 - DEBUG - Processed frame 329 in 2.007 seconds.
+2025-04-05 07:42:02,006 - DEBUG - Frame 330: 6 detections logged.
+2025-04-05 07:42:02,006 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:02,009 - DEBUG - Processed frame 330 in 1.825 seconds.
+2025-04-05 07:42:03,765 - DEBUG - Frame 331: 6 detections logged.
+2025-04-05 07:42:03,765 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:03,768 - DEBUG - Processed frame 331 in 1.756 seconds.
+2025-04-05 07:42:05,425 - DEBUG - Frame 332: 6 detections logged.
+2025-04-05 07:42:05,425 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:05,428 - DEBUG - Processed frame 332 in 1.658 seconds.
+2025-04-05 07:42:07,251 - DEBUG - Frame 333: 6 detections logged.
+2025-04-05 07:42:07,251 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:07,254 - DEBUG - Processed frame 333 in 1.820 seconds.
+2025-04-05 07:42:09,041 - DEBUG - Frame 334: 6 detections logged.
+2025-04-05 07:42:09,041 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:09,043 - DEBUG - Processed frame 334 in 1.785 seconds.
+2025-04-05 07:42:10,880 - DEBUG - Frame 335: 6 detections logged.
+2025-04-05 07:42:10,880 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:10,883 - DEBUG - Processed frame 335 in 1.836 seconds.
+2025-04-05 07:42:12,729 - DEBUG - Frame 336: 6 detections logged.
+2025-04-05 07:42:12,729 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:12,733 - DEBUG - Processed frame 336 in 1.847 seconds.
+2025-04-05 07:42:14,425 - DEBUG - Frame 337: 6 detections logged.
+2025-04-05 07:42:14,425 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:14,429 - DEBUG - Processed frame 337 in 1.693 seconds.
+2025-04-05 07:42:16,212 - DEBUG - Frame 338: 5 detections logged.
+2025-04-05 07:42:16,212 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:42:16,216 - DEBUG - Processed frame 338 in 1.783 seconds.
+2025-04-05 07:42:17,960 - DEBUG - Frame 339: 5 detections logged.
+2025-04-05 07:42:17,961 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:42:17,964 - DEBUG - Processed frame 339 in 1.743 seconds.
+2025-04-05 07:42:19,705 - DEBUG - Frame 340: 5 detections logged.
+2025-04-05 07:42:19,705 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:42:19,707 - DEBUG - Processed frame 340 in 1.741 seconds.
+2025-04-05 07:42:21,495 - DEBUG - Frame 341: 6 detections logged.
+2025-04-05 07:42:21,496 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:21,498 - DEBUG - Processed frame 341 in 1.786 seconds.
+2025-04-05 07:42:23,215 - DEBUG - Frame 342: 6 detections logged.
+2025-04-05 07:42:23,216 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:23,219 - DEBUG - Processed frame 342 in 1.717 seconds.
+2025-04-05 07:42:24,922 - DEBUG - Frame 343: 6 detections logged.
+2025-04-05 07:42:24,922 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:24,925 - DEBUG - Processed frame 343 in 1.702 seconds.
+2025-04-05 07:42:26,638 - DEBUG - Frame 344: 5 detections logged.
+2025-04-05 07:42:26,638 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:42:26,642 - DEBUG - Processed frame 344 in 1.715 seconds.
+2025-04-05 07:42:28,370 - DEBUG - Frame 345: 5 detections logged.
+2025-04-05 07:42:28,370 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:42:28,374 - DEBUG - Processed frame 345 in 1.728 seconds.
+2025-04-05 07:42:30,019 - DEBUG - Frame 346: 6 detections logged.
+2025-04-05 07:42:30,020 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:30,023 - DEBUG - Processed frame 346 in 1.646 seconds.
+2025-04-05 07:42:31,796 - DEBUG - Frame 347: 6 detections logged.
+2025-04-05 07:42:31,796 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:31,800 - DEBUG - Processed frame 347 in 1.774 seconds.
+2025-04-05 07:42:33,533 - DEBUG - Frame 348: 6 detections logged.
+2025-04-05 07:42:33,533 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:33,537 - DEBUG - Processed frame 348 in 1.734 seconds.
+2025-04-05 07:42:35,255 - DEBUG - Frame 349: 6 detections logged.
+2025-04-05 07:42:35,256 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:35,259 - DEBUG - Processed frame 349 in 1.719 seconds.
+2025-04-05 07:42:36,920 - DEBUG - Frame 350: 5 detections logged.
+2025-04-05 07:42:36,920 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:42:36,924 - DEBUG - Processed frame 350 in 1.662 seconds.
+2025-04-05 07:42:38,657 - DEBUG - Frame 351: 5 detections logged.
+2025-04-05 07:42:38,657 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:42:38,660 - DEBUG - Processed frame 351 in 1.733 seconds.
+2025-04-05 07:42:40,447 - DEBUG - Frame 352: 6 detections logged.
+2025-04-05 07:42:40,448 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:40,451 - DEBUG - Processed frame 352 in 1.787 seconds.
+2025-04-05 07:42:42,223 - DEBUG - Frame 353: 5 detections logged.
+2025-04-05 07:42:42,223 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:42:42,226 - DEBUG - Processed frame 353 in 1.771 seconds.
+2025-04-05 07:42:43,983 - DEBUG - Frame 354: 5 detections logged.
+2025-04-05 07:42:43,985 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:42:43,989 - DEBUG - Processed frame 354 in 1.759 seconds.
+2025-04-05 07:42:45,687 - DEBUG - Frame 355: 5 detections logged.
+2025-04-05 07:42:45,687 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:42:45,690 - DEBUG - Processed frame 355 in 1.698 seconds.
+2025-04-05 07:42:47,423 - DEBUG - Frame 356: 6 detections logged.
+2025-04-05 07:42:47,424 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:47,427 - DEBUG - Processed frame 356 in 1.731 seconds.
+2025-04-05 07:42:49,079 - DEBUG - Frame 357: 6 detections logged.
+2025-04-05 07:42:49,080 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:49,082 - DEBUG - Processed frame 357 in 1.652 seconds.
+2025-04-05 07:42:50,811 - DEBUG - Frame 358: 6 detections logged.
+2025-04-05 07:42:50,811 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:50,814 - DEBUG - Processed frame 358 in 1.728 seconds.
+2025-04-05 07:42:52,585 - DEBUG - Frame 359: 6 detections logged.
+2025-04-05 07:42:52,585 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:52,589 - DEBUG - Processed frame 359 in 1.771 seconds.
+2025-04-05 07:42:54,265 - DEBUG - Frame 360: 6 detections logged.
+2025-04-05 07:42:54,265 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:54,270 - DEBUG - Processed frame 360 in 1.677 seconds.
+2025-04-05 07:42:56,065 - DEBUG - Frame 361: 6 detections logged.
+2025-04-05 07:42:56,065 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:56,068 - DEBUG - Processed frame 361 in 1.794 seconds.
+2025-04-05 07:42:57,791 - DEBUG - Frame 362: 6 detections logged.
+2025-04-05 07:42:57,791 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:57,794 - DEBUG - Processed frame 362 in 1.723 seconds.
+2025-04-05 07:42:59,527 - DEBUG - Frame 363: 6 detections logged.
+2025-04-05 07:42:59,527 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:42:59,530 - DEBUG - Processed frame 363 in 1.732 seconds.
+2025-04-05 07:43:01,339 - DEBUG - Frame 364: 6 detections logged.
+2025-04-05 07:43:01,339 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:43:01,342 - DEBUG - Processed frame 364 in 1.808 seconds.
+2025-04-05 07:43:03,018 - DEBUG - Frame 365: 6 detections logged.
+2025-04-05 07:43:03,018 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 07:43:03,020 - DEBUG - Processed frame 365 in 1.675 seconds.
+2025-04-05 07:43:04,764 - DEBUG - Frame 366: 5 detections logged.
+2025-04-05 07:43:04,764 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:43:04,768 - DEBUG - Processed frame 366 in 1.743 seconds.
+2025-04-05 07:43:06,464 - DEBUG - Frame 367: 5 detections logged.
+2025-04-05 07:43:06,464 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:43:06,467 - DEBUG - Processed frame 367 in 1.695 seconds.
+2025-04-05 07:43:08,146 - DEBUG - Frame 368: 5 detections logged.
+2025-04-05 07:43:08,146 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:43:08,149 - DEBUG - Processed frame 368 in 1.678 seconds.
+2025-04-05 07:43:09,836 - DEBUG - Frame 369: 5 detections logged.
+2025-04-05 07:43:09,837 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:43:09,840 - DEBUG - Processed frame 369 in 1.686 seconds.
+2025-04-05 07:43:11,536 - DEBUG - Frame 370: 5 detections logged.
+2025-04-05 07:43:11,536 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:43:11,539 - DEBUG - Processed frame 370 in 1.696 seconds.
+2025-04-05 07:43:13,219 - DEBUG - Frame 371: 5 detections logged.
+2025-04-05 07:43:13,219 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:43:13,222 - DEBUG - Processed frame 371 in 1.680 seconds.
+2025-04-05 07:43:14,859 - DEBUG - Frame 372: 5 detections logged.
+2025-04-05 07:43:14,859 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:43:14,864 - DEBUG - Processed frame 372 in 1.638 seconds.
+2025-04-05 07:43:16,585 - DEBUG - Frame 373: 5 detections logged.
+2025-04-05 07:43:16,585 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:43:16,589 - DEBUG - Processed frame 373 in 1.721 seconds.
+2025-04-05 07:43:18,425 - DEBUG - Frame 374: 5 detections logged.
+2025-04-05 07:43:18,425 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:43:18,428 - DEBUG - Processed frame 374 in 1.835 seconds.
+2025-04-05 07:43:20,277 - DEBUG - Frame 375: 5 detections logged.
+2025-04-05 07:43:20,278 - WARNING - Alert: High pedestrian density detected (5 persons)!
+2025-04-05 07:43:20,280 - DEBUG - Processed frame 375 in 1.849 seconds.
+2025-04-05 07:43:22,129 - DEBUG - Frame 376: 4 detections logged.
+2025-04-05 07:43:22,132 - DEBUG - Processed frame 376 in 1.848 seconds.
+2025-04-05 07:43:24,089 - DEBUG - Frame 377: 4 detections logged.
+2025-04-05 07:43:24,093 - DEBUG - Processed frame 377 in 1.957 seconds.
+2025-04-05 07:43:25,966 - DEBUG - Frame 378: 4 detections logged.
+2025-04-05 07:43:25,970 - DEBUG - Processed frame 378 in 1.874 seconds.
+2025-04-05 07:43:27,821 - DEBUG - Frame 379: 4 detections logged.
+2025-04-05 07:43:27,825 - DEBUG - Processed frame 379 in 1.850 seconds.
+2025-04-05 07:43:29,433 - DEBUG - Frame 380: 4 detections logged.
+2025-04-05 07:43:29,437 - DEBUG - Processed frame 380 in 1.609 seconds.
+2025-04-05 07:43:31,295 - DEBUG - Frame 381: 4 detections logged.
+2025-04-05 07:43:31,298 - DEBUG - Processed frame 381 in 1.858 seconds.
+2025-04-05 07:43:33,259 - DEBUG - Frame 382: 4 detections logged.
+2025-04-05 07:43:33,262 - DEBUG - Processed frame 382 in 1.960 seconds.
+2025-04-05 07:43:35,043 - DEBUG - Frame 383: 4 detections logged.
+2025-04-05 07:43:35,046 - DEBUG - Processed frame 383 in 1.779 seconds.
+2025-04-05 07:43:36,721 - DEBUG - Frame 384: 4 detections logged.
+2025-04-05 07:43:36,726 - DEBUG - Processed frame 384 in 1.677 seconds.
+2025-04-05 07:43:38,369 - DEBUG - Frame 385: 4 detections logged.
+2025-04-05 07:43:38,371 - DEBUG - Processed frame 385 in 1.642 seconds.
+2025-04-05 07:43:40,034 - DEBUG - Frame 386: 4 detections logged.
+2025-04-05 07:43:40,037 - DEBUG - Processed frame 386 in 1.663 seconds.
+2025-04-05 07:43:41,847 - DEBUG - Frame 387: 4 detections logged.
+2025-04-05 07:43:41,851 - DEBUG - Processed frame 387 in 1.809 seconds.
+2025-04-05 07:43:43,548 - DEBUG - Frame 388: 4 detections logged.
+2025-04-05 07:43:43,551 - DEBUG - Processed frame 388 in 1.697 seconds.
+2025-04-05 07:43:45,122 - DEBUG - Frame 389: 4 detections logged.
+2025-04-05 07:43:45,125 - DEBUG - Processed frame 389 in 1.571 seconds.
+2025-04-05 07:43:46,847 - DEBUG - Frame 390: 4 detections logged.
+2025-04-05 07:43:46,849 - DEBUG - Processed frame 390 in 1.720 seconds.
+2025-04-05 07:43:48,638 - DEBUG - Frame 391: 4 detections logged.
+2025-04-05 07:43:48,641 - DEBUG - Processed frame 391 in 1.788 seconds.
+2025-04-05 07:43:50,123 - DEBUG - Frame 392: 4 detections logged.
+2025-04-05 07:43:50,126 - DEBUG - Processed frame 392 in 1.482 seconds.
+2025-04-05 07:43:51,796 - DEBUG - Frame 393: 4 detections logged.
+2025-04-05 07:43:51,799 - DEBUG - Processed frame 393 in 1.669 seconds.
+2025-04-05 07:43:53,346 - DEBUG - Frame 394: 4 detections logged.
+2025-04-05 07:43:53,348 - DEBUG - Processed frame 394 in 1.545 seconds.
+2025-04-05 07:43:54,817 - DEBUG - Frame 395: 4 detections logged.
+2025-04-05 07:43:54,819 - DEBUG - Processed frame 395 in 1.468 seconds.
+2025-04-05 07:43:56,412 - DEBUG - Frame 396: 3 detections logged.
+2025-04-05 07:43:56,416 - DEBUG - Processed frame 396 in 1.594 seconds.
+2025-04-05 07:43:58,168 - DEBUG - Frame 397: 3 detections logged.
+2025-04-05 07:43:58,171 - DEBUG - Processed frame 397 in 1.751 seconds.
+2025-04-05 07:43:59,811 - DEBUG - Frame 398: 3 detections logged.
+2025-04-05 07:43:59,814 - DEBUG - Processed frame 398 in 1.639 seconds.
+2025-04-05 07:44:01,514 - DEBUG - Frame 399: 3 detections logged.
+2025-04-05 07:44:01,518 - DEBUG - Processed frame 399 in 1.700 seconds.
+2025-04-05 07:44:03,150 - DEBUG - Frame 400: 3 detections logged.
+2025-04-05 07:44:03,153 - DEBUG - Processed frame 400 in 1.632 seconds.
+2025-04-05 07:44:05,153 - DEBUG - Frame 401: 3 detections logged.
+2025-04-05 07:44:05,155 - DEBUG - Processed frame 401 in 1.999 seconds.
+2025-04-05 07:44:06,887 - DEBUG - Frame 402: 3 detections logged.
+2025-04-05 07:44:06,890 - DEBUG - Processed frame 402 in 1.731 seconds.
+2025-04-05 07:44:08,523 - DEBUG - Frame 403: 3 detections logged.
+2025-04-05 07:44:08,526 - DEBUG - Processed frame 403 in 1.632 seconds.
+2025-04-05 07:44:10,310 - DEBUG - Frame 404: 2 detections logged.
+2025-04-05 07:44:10,312 - DEBUG - Processed frame 404 in 1.783 seconds.
+2025-04-05 07:44:12,009 - DEBUG - Frame 405: 2 detections logged.
+2025-04-05 07:44:12,014 - DEBUG - Processed frame 405 in 1.697 seconds.
+2025-04-05 07:44:13,679 - DEBUG - Frame 406: 2 detections logged.
+2025-04-05 07:44:13,681 - DEBUG - Processed frame 406 in 1.664 seconds.
+2025-04-05 07:44:15,425 - DEBUG - Frame 407: 2 detections logged.
+2025-04-05 07:44:15,428 - DEBUG - Processed frame 407 in 1.743 seconds.
+2025-04-05 07:44:17,284 - DEBUG - Frame 408: 2 detections logged.
+2025-04-05 07:44:17,288 - DEBUG - Processed frame 408 in 1.855 seconds.
+2025-04-05 07:44:18,930 - DEBUG - Frame 409: 2 detections logged.
+2025-04-05 07:44:18,932 - DEBUG - Processed frame 409 in 1.641 seconds.
+2025-04-05 07:44:20,648 - DEBUG - Frame 410: 2 detections logged.
+2025-04-05 07:44:20,651 - DEBUG - Processed frame 410 in 1.715 seconds.
+2025-04-05 07:44:22,254 - DEBUG - Frame 411: 2 detections logged.
+2025-04-05 07:44:22,257 - DEBUG - Processed frame 411 in 1.603 seconds.
+2025-04-05 07:44:24,138 - DEBUG - Frame 412: 2 detections logged.
+2025-04-05 07:44:24,141 - DEBUG - Processed frame 412 in 1.881 seconds.
+2025-04-05 07:44:25,739 - DEBUG - Frame 413: 2 detections logged.
+2025-04-05 07:44:25,742 - DEBUG - Processed frame 413 in 1.597 seconds.
+2025-04-05 07:44:27,510 - DEBUG - Frame 414: 2 detections logged.
+2025-04-05 07:44:27,512 - DEBUG - Processed frame 414 in 1.767 seconds.
+2025-04-05 07:44:29,253 - DEBUG - Frame 415: 2 detections logged.
+2025-04-05 07:44:29,255 - DEBUG - Processed frame 415 in 1.740 seconds.
+2025-04-05 07:44:30,914 - DEBUG - Frame 416: 2 detections logged.
+2025-04-05 07:44:30,918 - DEBUG - Processed frame 416 in 1.659 seconds.
+2025-04-05 07:44:32,607 - DEBUG - Frame 417: 2 detections logged.
+2025-04-05 07:44:32,609 - DEBUG - Processed frame 417 in 1.687 seconds.
+2025-04-05 07:44:34,305 - DEBUG - Frame 418: 2 detections logged.
+2025-04-05 07:44:34,309 - DEBUG - Processed frame 418 in 1.696 seconds.
+2025-04-05 07:44:36,030 - DEBUG - Frame 419: 2 detections logged.
+2025-04-05 07:44:36,033 - DEBUG - Processed frame 419 in 1.722 seconds.
+2025-04-05 07:44:37,604 - DEBUG - Frame 420: 3 detections logged.
+2025-04-05 07:44:37,607 - DEBUG - Processed frame 420 in 1.570 seconds.
+2025-04-05 07:44:39,259 - DEBUG - Frame 421: 3 detections logged.
+2025-04-05 07:44:39,262 - DEBUG - Processed frame 421 in 1.652 seconds.
+2025-04-05 07:44:40,723 - DEBUG - Frame 422: 3 detections logged.
+2025-04-05 07:44:40,725 - DEBUG - Processed frame 422 in 1.459 seconds.
+2025-04-05 07:44:42,420 - DEBUG - Frame 423: 3 detections logged.
+2025-04-05 07:44:42,422 - DEBUG - Processed frame 423 in 1.692 seconds.
+2025-04-05 07:44:44,021 - DEBUG - Frame 424: 3 detections logged.
+2025-04-05 07:44:44,023 - DEBUG - Processed frame 424 in 1.597 seconds.
+2025-04-05 07:44:45,762 - DEBUG - Frame 425: 3 detections logged.
+2025-04-05 07:44:45,764 - DEBUG - Processed frame 425 in 1.737 seconds.
+2025-04-05 07:44:47,317 - DEBUG - Frame 426: 3 detections logged.
+2025-04-05 07:44:47,320 - DEBUG - Processed frame 426 in 1.553 seconds.
+2025-04-05 07:44:47,672 - INFO - 127.0.0.1 - - [05/Apr/2025 07:44:47] "GET / HTTP/1.1" 200 -
+2025-04-05 07:44:48,961 - DEBUG - Frame 427: 3 detections logged.
+2025-04-05 07:44:48,964 - DEBUG - Processed frame 427 in 1.639 seconds.
+2025-04-05 07:44:49,819 - INFO - 127.0.0.1 - - [05/Apr/2025 07:44:49] "GET / HTTP/1.1" 200 -
+2025-04-05 07:44:50,090 - INFO - 127.0.0.1 - - [05/Apr/2025 07:44:50] "GET /static/styles.css HTTP/1.1" 200 -
+2025-04-05 07:44:59,949 - DEBUG - Video file saved: uploads\768x576.avi
+2025-04-05 07:44:59,950 - INFO - 127.0.0.1 - - [05/Apr/2025 07:44:59] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 07:45:00,276 - INFO - 127.0.0.1 - - [05/Apr/2025 07:45:00] "GET /result HTTP/1.1" 200 -
+2025-04-05 07:45:00,535 - INFO - 127.0.0.1 - - [05/Apr/2025 07:45:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:45:02,220 - DEBUG - Frame 0: 3 detections logged.
+2025-04-05 07:45:02,224 - DEBUG - Processed frame 0 in 1.616 seconds.
+2025-04-05 07:45:02,226 - INFO - 127.0.0.1 - - [05/Apr/2025 07:45:02] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 07:45:03,793 - DEBUG - Frame 1: 3 detections logged.
+2025-04-05 07:45:03,798 - DEBUG - Processed frame 1 in 1.570 seconds.
+2025-04-05 07:45:05,451 - DEBUG - Frame 2: 3 detections logged.
+2025-04-05 07:45:05,454 - DEBUG - Processed frame 2 in 1.652 seconds.
+2025-04-05 07:45:07,152 - DEBUG - Frame 3: 3 detections logged.
+2025-04-05 07:45:07,156 - DEBUG - Processed frame 3 in 1.699 seconds.
+2025-04-05 07:45:07,930 - INFO - 127.0.0.1 - - [05/Apr/2025 07:45:07] "GET /download HTTP/1.1" 200 -
+2025-04-05 07:45:08,291 - INFO - 127.0.0.1 - - [05/Apr/2025 07:45:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:45:08,295 - INFO - 127.0.0.1 - - [05/Apr/2025 07:45:08] "[35m[1mGET /get_video/processed_video.mp4 HTTP/1.1[0m" 206 -
+2025-04-05 07:45:08,827 - DEBUG - Frame 4: 3 detections logged.
+2025-04-05 07:45:08,832 - DEBUG - Processed frame 4 in 1.671 seconds.
+2025-04-05 07:45:14,451 - INFO - 127.0.0.1 - - [05/Apr/2025 07:45:14] "GET / HTTP/1.1" 200 -
+2025-04-05 07:45:15,234 - DEBUG - Frame 0: 3 detections logged.
+2025-04-05 07:45:15,237 - DEBUG - Processed frame 0 in 1.772 seconds.
+2025-04-05 07:45:15,239 - INFO - 127.0.0.1 - - [05/Apr/2025 07:45:15] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 07:47:18,196 - INFO - 127.0.0.1 - - [05/Apr/2025 07:47:18] "GET / HTTP/1.1" 200 -
+2025-04-05 07:47:18,462 - INFO - 127.0.0.1 - - [05/Apr/2025 07:47:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:47:32,265 - DEBUG - Video file saved: uploads\Screenshot_2025-04-05_010427.png
+2025-04-05 07:47:32,266 - INFO - 127.0.0.1 - - [05/Apr/2025 07:47:32] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 07:47:32,579 - INFO - 127.0.0.1 - - [05/Apr/2025 07:47:32] "GET /result HTTP/1.1" 200 -
+2025-04-05 07:47:32,842 - INFO - 127.0.0.1 - - [05/Apr/2025 07:47:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:47:34,488 - DEBUG - Frame 0: 4 detections logged.
+2025-04-05 07:47:34,488 - DEBUG - Processed frame 0 in 1.326 seconds.
+2025-04-05 07:47:34,491 - INFO - 127.0.0.1 - - [05/Apr/2025 07:47:34] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 07:50:08,603 - INFO -  * Detected change in 'C:\\Users\\coper\\OneDrive\\Desktop\\pedestrian try\\app.py', reloading
+2025-04-05 07:50:09,108 - INFO -  * Restarting with stat
+2025-04-05 07:50:12,723 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 07:50:13,014 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 07:50:13,259 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:50:13,507 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:50:13,535 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 07:50:13,833 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 07:50:13,835 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 07:50:13,871 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 07:50:14,042 - WARNING -  * Debugger is active!
+2025-04-05 07:50:14,044 - INFO -  * Debugger PIN: 208-231-373
+2025-04-05 07:50:21,091 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 07:50:21,412 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 07:50:21,658 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:50:21,894 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:50:21,922 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 07:50:22,212 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 07:50:22,213 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 07:50:22,249 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 07:50:22,413 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081
+2025-04-05 07:50:22,413 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 07:50:22,414 - INFO -  * Restarting with stat
+2025-04-05 07:50:26,107 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 07:50:26,644 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 07:50:26,944 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:50:27,248 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:50:27,288 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 07:50:27,644 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 07:50:27,646 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 07:50:27,682 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 07:50:27,875 - WARNING -  * Debugger is active!
+2025-04-05 07:50:27,878 - INFO -  * Debugger PIN: 208-231-373
+2025-04-05 07:50:36,392 - INFO - 127.0.0.1 - - [05/Apr/2025 07:50:36] "GET / HTTP/1.1" 200 -
+2025-04-05 07:50:36,647 - INFO - 127.0.0.1 - - [05/Apr/2025 07:50:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:50:42,510 - DEBUG - Video file saved: uploads\Screenshot_2025-04-05_010427.png
+2025-04-05 07:50:42,512 - INFO - 127.0.0.1 - - [05/Apr/2025 07:50:42] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 07:50:42,824 - INFO - 127.0.0.1 - - [05/Apr/2025 07:50:42] "GET /result HTTP/1.1" 200 -
+2025-04-05 07:50:43,085 - INFO - 127.0.0.1 - - [05/Apr/2025 07:50:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:50:44,816 - DEBUG - Frame 0: 4 detections logged.
+2025-04-05 07:50:44,816 - DEBUG - Processed frame 0 in 1.445 seconds.
+2025-04-05 07:50:44,819 - INFO - 127.0.0.1 - - [05/Apr/2025 07:50:44] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 07:51:42,615 - INFO -  * Detected change in 'C:\\Users\\coper\\OneDrive\\Desktop\\pedestrian try\\app.py', reloading
+2025-04-05 07:51:43,043 - INFO -  * Restarting with stat
+2025-04-05 07:51:46,739 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 07:51:47,342 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 07:51:47,595 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:51:47,981 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:51:48,009 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 07:51:48,241 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 07:51:48,243 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 07:51:48,280 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 07:51:48,445 - WARNING -  * Debugger is active!
+2025-04-05 07:51:48,448 - INFO -  * Debugger PIN: 208-231-373
+2025-04-05 07:51:48,460 - INFO - 127.0.0.1 - - [05/Apr/2025 07:51:48] "GET / HTTP/1.1" 200 -
+2025-04-05 07:51:48,473 - INFO - 127.0.0.1 - - [05/Apr/2025 07:51:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:52:02,599 - INFO -  * Detected change in 'C:\\Users\\coper\\OneDrive\\Desktop\\pedestrian try\\app.py', reloading
+2025-04-05 07:52:03,091 - INFO -  * Restarting with stat
+2025-04-05 07:52:06,493 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 07:52:06,789 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 07:52:07,539 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:52:07,778 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 07:52:07,805 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 07:52:08,139 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 07:52:08,142 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 07:52:08,177 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 07:52:08,336 - WARNING -  * Debugger is active!
+2025-04-05 07:52:08,339 - INFO -  * Debugger PIN: 208-231-373
+2025-04-05 07:52:10,983 - INFO - 127.0.0.1 - - [05/Apr/2025 07:52:10] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 07:52:11,262 - INFO - 127.0.0.1 - - [05/Apr/2025 07:52:11] "GET /camera HTTP/1.1" 200 -
+2025-04-05 07:52:11,296 - INFO - 127.0.0.1 - - [05/Apr/2025 07:52:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:52:14,376 - DEBUG - Frame 0: 1 detections logged.
+2025-04-05 07:52:14,376 - DEBUG - Processed frame 0 in 1.664 seconds.
+2025-04-05 07:52:14,378 - INFO - 127.0.0.1 - - [05/Apr/2025 07:52:14] "GET /camera_feed HTTP/1.1" 200 -
+2025-04-05 07:52:16,047 - DEBUG - Frame 1: 1 detections logged.
+2025-04-05 07:52:16,047 - DEBUG - Processed frame 1 in 1.666 seconds.
+2025-04-05 07:52:17,773 - DEBUG - Frame 2: 1 detections logged.
+2025-04-05 07:52:17,773 - DEBUG - Processed frame 2 in 1.718 seconds.
+2025-04-05 07:52:19,438 - DEBUG - Frame 3: 1 detections logged.
+2025-04-05 07:52:19,439 - DEBUG - Processed frame 3 in 1.659 seconds.
+2025-04-05 07:52:21,183 - DEBUG - Frame 4: 2 detections logged.
+2025-04-05 07:52:21,183 - DEBUG - Processed frame 4 in 1.738 seconds.
+2025-04-05 07:52:21,798 - INFO - 127.0.0.1 - - [05/Apr/2025 07:52:21] "GET / HTTP/1.1" 200 -
+2025-04-05 07:52:23,134 - DEBUG - Frame 5: 1 detections logged.
+2025-04-05 07:52:23,134 - DEBUG - Processed frame 5 in 1.943 seconds.
+2025-04-05 07:55:58,449 - INFO - 127.0.0.1 - - [05/Apr/2025 07:55:58] "GET / HTTP/1.1" 200 -
+2025-04-05 07:55:58,687 - INFO - 127.0.0.1 - - [05/Apr/2025 07:55:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:56:13,369 - DEBUG - Video file saved: uploads\768x576.avi
+2025-04-05 07:56:13,370 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:13] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 07:56:13,686 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:13] "GET /result HTTP/1.1" 200 -
+2025-04-05 07:56:13,949 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:56:15,710 - DEBUG - Frame 0: 3 detections logged.
+2025-04-05 07:56:15,714 - DEBUG - Processed frame 0 in 1.689 seconds.
+2025-04-05 07:56:15,717 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:15] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 07:56:17,329 - DEBUG - Frame 1: 3 detections logged.
+2025-04-05 07:56:17,333 - DEBUG - Processed frame 1 in 1.614 seconds.
+2025-04-05 07:56:19,098 - DEBUG - Frame 2: 3 detections logged.
+2025-04-05 07:56:19,102 - DEBUG - Processed frame 2 in 1.765 seconds.
+2025-04-05 07:56:20,868 - DEBUG - Frame 3: 3 detections logged.
+2025-04-05 07:56:20,871 - DEBUG - Processed frame 3 in 1.766 seconds.
+2025-04-05 07:56:22,554 - DEBUG - Frame 4: 3 detections logged.
+2025-04-05 07:56:22,557 - DEBUG - Processed frame 4 in 1.682 seconds.
+2025-04-05 07:56:24,307 - DEBUG - Frame 5: 3 detections logged.
+2025-04-05 07:56:24,310 - DEBUG - Processed frame 5 in 1.750 seconds.
+2025-04-05 07:56:25,777 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:25] "GET /download HTTP/1.1" 200 -
+2025-04-05 07:56:25,924 - DEBUG - Frame 6: 3 detections logged.
+2025-04-05 07:56:25,928 - DEBUG - Processed frame 6 in 1.614 seconds.
+2025-04-05 07:56:26,145 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:56:26,154 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:26] "[35m[1mGET /get_video/processed_video.mp4 HTTP/1.1[0m" 206 -
+2025-04-05 07:56:26,391 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:26] "[35m[1mGET /get_video/processed_video.mp4 HTTP/1.1[0m" 206 -
+2025-04-05 07:56:28,596 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:28] "GET / HTTP/1.1" 200 -
+2025-04-05 07:56:29,267 - DEBUG - Frame 0: 3 detections logged.
+2025-04-05 07:56:29,270 - DEBUG - Processed frame 0 in 1.745 seconds.
+2025-04-05 07:56:29,272 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:29] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 07:56:32,172 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:32] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 07:56:32,438 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:32] "GET /camera HTTP/1.1" 200 -
+2025-04-05 07:56:32,483 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 07:56:34,731 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:34] "GET / HTTP/1.1" 200 -
+2025-04-05 07:56:35,610 - DEBUG - Frame 0: 1 detections logged.
+2025-04-05 07:56:35,610 - DEBUG - Processed frame 0 in 1.839 seconds.
+2025-04-05 07:56:35,612 - INFO - 127.0.0.1 - - [05/Apr/2025 07:56:35] "GET /camera_feed HTTP/1.1" 200 -
+2025-04-05 08:03:56,197 - DEBUG - Video file saved: uploads\768x576.avi
+2025-04-05 08:03:56,198 - INFO - 127.0.0.1 - - [05/Apr/2025 08:03:56] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 08:03:56,436 - INFO - 127.0.0.1 - - [05/Apr/2025 08:03:56] "GET /result HTTP/1.1" 200 -
+2025-04-05 08:03:56,523 - INFO - 127.0.0.1 - - [05/Apr/2025 08:03:56] "GET /static/styles.css HTTP/1.1" 200 -
+2025-04-05 08:03:58,482 - DEBUG - Frame 0: 3 detections logged.
+2025-04-05 08:03:58,485 - DEBUG - Processed frame 0 in 1.708 seconds.
+2025-04-05 08:03:58,486 - INFO - 127.0.0.1 - - [05/Apr/2025 08:03:58] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 08:03:59,388 - INFO - 127.0.0.1 - - [05/Apr/2025 08:03:59] "GET / HTTP/1.1" 200 -
+2025-04-05 08:04:00,279 - DEBUG - Frame 1: 3 detections logged.
+2025-04-05 08:04:00,283 - DEBUG - Processed frame 1 in 1.795 seconds.
+2025-04-05 08:04:02,375 - DEBUG - Frame 0: 3 detections logged.
+2025-04-05 08:04:02,379 - DEBUG - Processed frame 0 in 1.981 seconds.
+2025-04-05 08:04:02,382 - INFO - 127.0.0.1 - - [05/Apr/2025 08:04:02] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 10:28:02,452 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 10:28:02,652 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-05 10:28:02,753 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2025-04-05 10:28:02,887 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 10:28:02,888 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2025-04-05 10:28:02,965 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 10:28:03,020 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 10:28:03,283 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081
+2025-04-05 10:28:03,283 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 10:28:03,284 - INFO -  * Restarting with stat
+2025-04-05 10:28:07,313 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 10:28:07,463 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-05 10:28:07,559 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2025-04-05 10:28:07,618 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 10:28:07,622 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2025-04-05 10:28:07,660 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 10:28:07,714 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 10:28:07,971 - WARNING -  * Debugger is active!
+2025-04-05 10:28:07,976 - INFO -  * Debugger PIN: 208-231-373
+2025-04-05 10:28:18,432 - INFO - 127.0.0.1 - - [05/Apr/2025 10:28:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-05 10:28:22,215 - INFO - 127.0.0.1 - - [05/Apr/2025 10:28:22] "GET / HTTP/1.1" 200 -
+2025-04-05 10:28:22,558 - INFO - 127.0.0.1 - - [05/Apr/2025 10:28:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 10:28:53,712 - DEBUG - Video file saved: uploads\Screenshot_2025-04-05_010427.png
+2025-04-05 10:28:53,713 - INFO - 127.0.0.1 - - [05/Apr/2025 10:28:53] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 10:28:53,967 - INFO - 127.0.0.1 - - [05/Apr/2025 10:28:53] "GET /result HTTP/1.1" 200 -
+2025-04-05 10:28:54,028 - INFO - 127.0.0.1 - - [05/Apr/2025 10:28:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 10:28:56,132 - DEBUG - Frame 0: 4 detections logged.
+2025-04-05 10:28:56,132 - DEBUG - Processed frame 0 in 1.580 seconds.
+2025-04-05 10:28:56,135 - INFO - 127.0.0.1 - - [05/Apr/2025 10:28:56] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 10:28:57,815 - INFO - 127.0.0.1 - - [05/Apr/2025 10:28:57] "GET / HTTP/1.1" 200 -
+2025-04-05 10:29:00,752 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:00] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 10:29:01,016 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:01] "GET /camera HTTP/1.1" 200 -
+2025-04-05 10:29:01,061 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 10:29:01,553 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:01] "GET /camera_feed HTTP/1.1" 200 -
+2025-04-05 10:29:12,680 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:12] "GET / HTTP/1.1" 200 -
+2025-04-05 10:29:13,002 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 10:29:15,769 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:15] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 10:29:16,085 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:16] "GET /camera HTTP/1.1" 200 -
+2025-04-05 10:29:16,329 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 10:29:19,187 - DEBUG - Frame 0: 2 detections logged.
+2025-04-05 10:29:19,187 - DEBUG - Processed frame 0 in 1.758 seconds.
+2025-04-05 10:29:19,188 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:19] "GET /camera_feed HTTP/1.1" 200 -
+2025-04-05 10:29:20,895 - DEBUG - Frame 1: 1 detections logged.
+2025-04-05 10:29:20,895 - DEBUG - Processed frame 1 in 1.705 seconds.
+2025-04-05 10:29:22,668 - DEBUG - Frame 2: 2 detections logged.
+2025-04-05 10:29:22,668 - DEBUG - Processed frame 2 in 1.757 seconds.
+2025-04-05 10:29:24,436 - DEBUG - Frame 3: 2 detections logged.
+2025-04-05 10:29:24,436 - DEBUG - Processed frame 3 in 1.748 seconds.
+2025-04-05 10:29:26,331 - DEBUG - Frame 4: 2 detections logged.
+2025-04-05 10:29:26,331 - DEBUG - Processed frame 4 in 1.880 seconds.
+2025-04-05 10:29:28,127 - DEBUG - Frame 5: 3 detections logged.
+2025-04-05 10:29:28,127 - DEBUG - Processed frame 5 in 1.779 seconds.
+2025-04-05 10:29:28,205 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:28] "GET / HTTP/1.1" 200 -
+2025-04-05 10:29:30,206 - DEBUG - Frame 6: 3 detections logged.
+2025-04-05 10:29:30,207 - DEBUG - Processed frame 6 in 2.074 seconds.
+2025-04-05 10:29:40,022 - DEBUG - Video file saved: uploads\768x576.avi
+2025-04-05 10:29:40,023 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:40] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 10:29:40,245 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:40] "GET /result HTTP/1.1" 200 -
+2025-04-05 10:29:40,337 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 10:29:42,329 - DEBUG - Frame 0: 3 detections logged.
+2025-04-05 10:29:42,334 - DEBUG - Processed frame 0 in 1.750 seconds.
+2025-04-05 10:29:42,336 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:42] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 10:29:43,381 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:43] "GET /download HTTP/1.1" 200 -
+2025-04-05 10:29:43,734 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 10:29:43,743 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:43] "GET /get_video/processed_video.mp4 HTTP/1.1" 200 -
+2025-04-05 10:29:43,987 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:43] "[35m[1mGET /get_video/processed_video.mp4 HTTP/1.1[0m" 206 -
+2025-04-05 10:29:44,105 - DEBUG - Frame 1: 3 detections logged.
+2025-04-05 10:29:44,111 - DEBUG - Processed frame 1 in 1.774 seconds.
+2025-04-05 10:29:47,079 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:47] "GET /get_video/processed_video.mp4 HTTP/1.1" 200 -
+2025-04-05 10:29:54,844 - DEBUG - Frame 0: 3 detections logged.
+2025-04-05 10:29:54,848 - DEBUG - Processed frame 0 in 1.979 seconds.
+2025-04-05 10:29:54,850 - INFO - 127.0.0.1 - - [05/Apr/2025 10:29:54] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 10:29:56,464 - DEBUG - Frame 1: 3 detections logged.
+2025-04-05 10:29:56,469 - DEBUG - Processed frame 1 in 1.616 seconds.
+2025-04-05 10:29:58,168 - DEBUG - Frame 2: 3 detections logged.
+2025-04-05 10:29:58,173 - DEBUG - Processed frame 2 in 1.698 seconds.
+2025-04-05 10:29:59,777 - DEBUG - Frame 3: 3 detections logged.
+2025-04-05 10:29:59,781 - DEBUG - Processed frame 3 in 1.603 seconds.
+2025-04-05 10:30:01,400 - DEBUG - Frame 4: 3 detections logged.
+2025-04-05 10:30:01,403 - DEBUG - Processed frame 4 in 1.618 seconds.
+2025-04-05 10:30:03,060 - DEBUG - Frame 5: 3 detections logged.
+2025-04-05 10:30:03,063 - DEBUG - Processed frame 5 in 1.657 seconds.
+2025-04-05 10:30:04,665 - DEBUG - Frame 6: 3 detections logged.
+2025-04-05 10:30:04,669 - DEBUG - Processed frame 6 in 1.601 seconds.
+2025-04-05 10:30:06,366 - DEBUG - Frame 7: 3 detections logged.
+2025-04-05 10:30:06,369 - DEBUG - Processed frame 7 in 1.697 seconds.
+2025-04-05 10:30:08,062 - DEBUG - Frame 8: 3 detections logged.
+2025-04-05 10:30:08,064 - DEBUG - Processed frame 8 in 1.690 seconds.
+2025-04-05 10:30:08,837 - INFO - 127.0.0.1 - - [05/Apr/2025 10:30:08] "GET / HTTP/1.1" 200 -
+2025-04-05 10:30:09,886 - DEBUG - Frame 9: 3 detections logged.
+2025-04-05 10:30:09,889 - DEBUG - Processed frame 9 in 1.821 seconds.
+2025-04-05 11:00:19,206 - INFO - 127.0.0.1 - - [05/Apr/2025 11:00:19] "GET / HTTP/1.1" 200 -
+2025-04-05 11:00:19,448 - INFO - 127.0.0.1 - - [05/Apr/2025 11:00:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:00:36,093 - DEBUG - Video file saved: uploads\WhatsApp_Video_2025-04-04_at_20.45.23_f42330c1.mp4
+2025-04-05 11:00:36,093 - INFO - 127.0.0.1 - - [05/Apr/2025 11:00:36] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 11:00:36,406 - INFO - 127.0.0.1 - - [05/Apr/2025 11:00:36] "GET /result HTTP/1.1" 200 -
+2025-04-05 11:00:36,671 - INFO - 127.0.0.1 - - [05/Apr/2025 11:00:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:00:38,901 - DEBUG - Frame 0: 9 detections logged.
+2025-04-05 11:00:38,902 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 11:00:38,906 - DEBUG - Processed frame 0 in 2.132 seconds.
+2025-04-05 11:00:38,908 - INFO - 127.0.0.1 - - [05/Apr/2025 11:00:38] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 11:00:40,768 - DEBUG - Frame 1: 10 detections logged.
+2025-04-05 11:00:40,768 - WARNING - Alert: High pedestrian density detected (10 persons)!
+2025-04-05 11:00:40,772 - DEBUG - Processed frame 1 in 1.863 seconds.
+2025-04-05 11:00:42,927 - DEBUG - Frame 2: 8 detections logged.
+2025-04-05 11:00:42,927 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 11:00:42,927 - DEBUG - Processed frame 2 in 2.152 seconds.
+2025-04-05 11:00:44,917 - DEBUG - Frame 3: 8 detections logged.
+2025-04-05 11:00:44,917 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 11:00:44,920 - DEBUG - Processed frame 3 in 1.985 seconds.
+2025-04-05 11:00:46,815 - DEBUG - Frame 4: 9 detections logged.
+2025-04-05 11:00:46,815 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 11:00:46,818 - DEBUG - Processed frame 4 in 1.895 seconds.
+2025-04-05 11:00:48,644 - DEBUG - Frame 5: 7 detections logged.
+2025-04-05 11:00:48,644 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 11:00:48,647 - DEBUG - Processed frame 5 in 1.826 seconds.
+2025-04-05 11:00:50,496 - DEBUG - Frame 6: 9 detections logged.
+2025-04-05 11:00:50,496 - WARNING - Alert: High pedestrian density detected (9 persons)!
+2025-04-05 11:00:50,496 - DEBUG - Processed frame 6 in 1.846 seconds.
+2025-04-05 11:00:52,460 - DEBUG - Frame 7: 8 detections logged.
+2025-04-05 11:00:52,460 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 11:00:52,460 - DEBUG - Processed frame 7 in 1.964 seconds.
+2025-04-05 11:00:54,690 - DEBUG - Frame 8: 7 detections logged.
+2025-04-05 11:00:54,690 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 11:00:54,693 - DEBUG - Processed frame 8 in 2.227 seconds.
+2025-04-05 11:00:56,549 - DEBUG - Frame 9: 7 detections logged.
+2025-04-05 11:00:56,549 - WARNING - Alert: High pedestrian density detected (7 persons)!
+2025-04-05 11:00:56,549 - DEBUG - Processed frame 9 in 1.856 seconds.
+2025-04-05 11:00:58,782 - DEBUG - Frame 10: 8 detections logged.
+2025-04-05 11:00:58,782 - WARNING - Alert: High pedestrian density detected (8 persons)!
+2025-04-05 11:00:58,784 - DEBUG - Processed frame 10 in 2.234 seconds.
+2025-04-05 11:00:59,666 - INFO - 127.0.0.1 - - [05/Apr/2025 11:00:59] "GET / HTTP/1.1" 200 -
+2025-04-05 11:01:00,966 - DEBUG - Frame 11: 11 detections logged.
+2025-04-05 11:01:00,966 - WARNING - Alert: High pedestrian density detected (11 persons)!
+2025-04-05 11:01:00,970 - DEBUG - Processed frame 11 in 2.184 seconds.
+2025-04-05 11:34:19,111 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 11:34:20,515 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 11:34:21,117 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 11:34:21,730 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 11:34:21,763 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 11:34:22,247 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 11:34:22,249 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 11:34:22,299 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 11:34:22,557 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081
+2025-04-05 11:34:22,557 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 11:34:22,559 - INFO -  * Restarting with stat
+2025-04-05 11:34:26,558 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-05 11:34:27,988 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/preprocessor_config.json HTTP/11" 200 0
+2025-04-05 11:34:28,388 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 11:34:29,101 - DEBUG - https://huggingface.co:443 "HEAD /facebook/detr-resnet-50/resolve/main/config.json HTTP/11" 200 0
+2025-04-05 11:34:29,142 - INFO - Loading pretrained weights from Hugging Face hub (timm/resnet50.a1_in1k)
+2025-04-05 11:34:29,620 - DEBUG - https://huggingface.co:443 "HEAD /timm/resnet50.a1_in1k/resolve/main/model.safetensors HTTP/11" 302 0
+2025-04-05 11:34:29,620 - INFO - [timm/resnet50.a1_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-04-05 11:34:29,668 - INFO - Missing keys (fc.weight, fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+2025-04-05 11:34:29,922 - WARNING -  * Debugger is active!
+2025-04-05 11:34:29,922 - INFO -  * Debugger PIN: 208-231-373
+2025-04-05 11:34:43,267 - INFO - 127.0.0.1 - - [05/Apr/2025 11:34:43] "GET / HTTP/1.1" 200 -
+2025-04-05 11:34:43,521 - INFO - 127.0.0.1 - - [05/Apr/2025 11:34:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:34:44,573 - INFO - 127.0.0.1 - - [05/Apr/2025 11:34:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-05 11:38:40,177 - DEBUG - Video file saved: uploads\768x576.avi
+2025-04-05 11:38:40,177 - INFO - 127.0.0.1 - - [05/Apr/2025 11:38:40] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 11:38:40,395 - INFO - 127.0.0.1 - - [05/Apr/2025 11:38:40] "GET /result HTTP/1.1" 200 -
+2025-04-05 11:38:40,495 - INFO - 127.0.0.1 - - [05/Apr/2025 11:38:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:38:42,535 - DEBUG - Frame 0: 3 detections logged.
+2025-04-05 11:38:42,543 - DEBUG - Processed frame 0 in 1.808 seconds.
+2025-04-05 11:38:42,543 - INFO - 127.0.0.1 - - [05/Apr/2025 11:38:42] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 11:38:44,191 - DEBUG - Frame 1: 3 detections logged.
+2025-04-05 11:38:44,196 - DEBUG - Processed frame 1 in 1.644 seconds.
+2025-04-05 11:38:45,899 - DEBUG - Frame 2: 3 detections logged.
+2025-04-05 11:38:45,902 - DEBUG - Processed frame 2 in 1.700 seconds.
+2025-04-05 11:38:47,473 - DEBUG - Frame 3: 3 detections logged.
+2025-04-05 11:38:47,477 - DEBUG - Processed frame 3 in 1.570 seconds.
+2025-04-05 11:38:49,045 - DEBUG - Frame 4: 3 detections logged.
+2025-04-05 11:38:49,048 - DEBUG - Processed frame 4 in 1.567 seconds.
+2025-04-05 11:38:50,640 - DEBUG - Frame 5: 3 detections logged.
+2025-04-05 11:38:50,643 - DEBUG - Processed frame 5 in 1.592 seconds.
+2025-04-05 11:38:52,218 - DEBUG - Frame 6: 3 detections logged.
+2025-04-05 11:38:52,219 - DEBUG - Processed frame 6 in 1.572 seconds.
+2025-04-05 11:38:53,804 - DEBUG - Frame 7: 3 detections logged.
+2025-04-05 11:38:53,808 - DEBUG - Processed frame 7 in 1.582 seconds.
+2025-04-05 11:38:55,411 - DEBUG - Frame 8: 3 detections logged.
+2025-04-05 11:38:55,415 - DEBUG - Processed frame 8 in 1.603 seconds.
+2025-04-05 11:38:57,000 - DEBUG - Frame 9: 3 detections logged.
+2025-04-05 11:38:57,004 - DEBUG - Processed frame 9 in 1.586 seconds.
+2025-04-05 11:38:58,685 - DEBUG - Frame 10: 4 detections logged.
+2025-04-05 11:38:58,689 - DEBUG - Processed frame 10 in 1.681 seconds.
+2025-04-05 11:39:00,329 - DEBUG - Frame 11: 4 detections logged.
+2025-04-05 11:39:00,333 - DEBUG - Processed frame 11 in 1.640 seconds.
+2025-04-05 11:39:01,330 - INFO - 127.0.0.1 - - [05/Apr/2025 11:39:01] "GET / HTTP/1.1" 200 -
+2025-04-05 11:39:01,682 - INFO - 127.0.0.1 - - [05/Apr/2025 11:39:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:39:02,125 - DEBUG - Frame 12: 4 detections logged.
+2025-04-05 11:39:02,129 - DEBUG - Processed frame 12 in 1.792 seconds.
+2025-04-05 11:39:37,804 - DEBUG - Video file saved: uploads\010057.jpg
+2025-04-05 11:39:37,804 - INFO - 127.0.0.1 - - [05/Apr/2025 11:39:37] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 11:39:38,121 - INFO - 127.0.0.1 - - [05/Apr/2025 11:39:38] "GET /result HTTP/1.1" 200 -
+2025-04-05 11:39:38,368 - INFO - 127.0.0.1 - - [05/Apr/2025 11:39:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:39:40,107 - DEBUG - Frame 0: 6 detections logged.
+2025-04-05 11:39:40,107 - WARNING - Alert: High pedestrian density detected (6 persons)!
+2025-04-05 11:39:40,115 - DEBUG - Processed frame 0 in 1.648 seconds.
+2025-04-05 11:39:40,124 - INFO - 127.0.0.1 - - [05/Apr/2025 11:39:40] "GET /video_feed HTTP/1.1" 200 -
+2025-04-05 11:40:13,541 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:13] "GET / HTTP/1.1" 200 -
+2025-04-05 11:40:13,876 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:40:15,862 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:15] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 11:40:16,171 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:16] "GET /camera HTTP/1.1" 200 -
+2025-04-05 11:40:16,434 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:40:21,343 - DEBUG - Frame 0: 2 detections logged.
+2025-04-05 11:40:21,343 - DEBUG - Processed frame 0 in 1.719 seconds.
+2025-04-05 11:40:21,343 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:21] "GET /camera_feed HTTP/1.1" 200 -
+2025-04-05 11:40:22,922 - DEBUG - Frame 1: 0 detections logged.
+2025-04-05 11:40:22,922 - DEBUG - Processed frame 1 in 1.563 seconds.
+2025-04-05 11:40:24,544 - DEBUG - Frame 2: 0 detections logged.
+2025-04-05 11:40:24,544 - DEBUG - Processed frame 2 in 1.614 seconds.
+2025-04-05 11:40:26,115 - DEBUG - Frame 3: 0 detections logged.
+2025-04-05 11:40:26,115 - DEBUG - Processed frame 3 in 1.554 seconds.
+2025-04-05 11:40:29,862 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:29] "GET / HTTP/1.1" 200 -
+2025-04-05 11:40:30,190 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:40:32,046 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:32] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-04-05 11:40:32,354 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:32] "GET /camera HTTP/1.1" 200 -
+2025-04-05 11:40:32,617 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:40:35,181 - DEBUG - Frame 0: 2 detections logged.
+2025-04-05 11:40:35,181 - DEBUG - Processed frame 0 in 1.678 seconds.
+2025-04-05 11:40:35,183 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:35] "GET /camera_feed HTTP/1.1" 200 -
+2025-04-05 11:40:36,843 - DEBUG - Frame 1: 2 detections logged.
+2025-04-05 11:40:36,844 - DEBUG - Processed frame 1 in 1.649 seconds.
+2025-04-05 11:40:38,587 - DEBUG - Frame 2: 3 detections logged.
+2025-04-05 11:40:38,588 - DEBUG - Processed frame 2 in 1.728 seconds.
+2025-04-05 11:40:40,249 - DEBUG - Frame 3: 3 detections logged.
+2025-04-05 11:40:40,250 - DEBUG - Processed frame 3 in 1.658 seconds.
+2025-04-05 11:40:41,907 - DEBUG - Frame 4: 2 detections logged.
+2025-04-05 11:40:41,907 - DEBUG - Processed frame 4 in 1.643 seconds.
+2025-04-05 11:40:43,581 - DEBUG - Frame 5: 2 detections logged.
+2025-04-05 11:40:43,581 - DEBUG - Processed frame 5 in 1.657 seconds.
+2025-04-05 11:40:45,302 - DEBUG - Frame 6: 2 detections logged.
+2025-04-05 11:40:45,302 - DEBUG - Processed frame 6 in 1.705 seconds.
+2025-04-05 11:40:46,200 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:46] "GET / HTTP/1.1" 200 -
+2025-04-05 11:40:46,586 - INFO - 127.0.0.1 - - [05/Apr/2025 11:40:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-05 11:40:47,270 - DEBUG - Frame 7: 3 detections logged.
+2025-04-05 11:40:47,270 - DEBUG - Processed frame 7 in 1.956 seconds.
